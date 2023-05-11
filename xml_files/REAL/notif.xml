@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <notifications>
     <notif>
-        <title>Maharashtra State board update 1 </title>
+        <title>Class 11 Commerce Maths and Statastics Part 1 Solutions upddated </title>
         <ad>false</ad>
         <show_in_slider>true</show_in_slider>
-        <image>https://d35fo82fjcw0y8.cloudfront.net/2021/05/10131852/Push-Notification-Header.png</image>
-        <image_clicked_link>https://www.lpu.in/</image_clicked_link>
-        <html>https://www.selfstudy360.com/2020/12/1-biology-class-12-chapter-1-Reproduction-in-Lower-and-Higher-Plants-MHTCET-NEET-MCQ.html</html>
+        <image>https://learn-study-top.github.io/data/notif_img/class11_com_math_stat_part1.jpeg</image>
+        <image_clicked_link>https://www.selfstudy360.com/2022/11/class-11-biology-chapter-6-anatomy-of-flowering-plants-neet-dpp.html</image_clicked_link>
+        <html>https://www.selfstudy360.com/2022/11/class-11-biology-chapter-6-anatomy-of-flowering-plants-neet-dpp.html</html>
     </notif>
     <notif>
         <title>Maharashtra State board update 2</title>
@@ -21,33 +21,5 @@
         <image_clicked_link>https://www.lpu.in/</image_clicked_link>
         <html>https://www.selfstudy360.com/2020/12/1-biology-class-12-chapter-1-Reproduction-in-Lower-and-Higher-Plants-MHTCET-NEET-MCQ.html</html>
     </notif>
-    <notif>
-        <title>Maharashtra State board update 4 </title>
-        <ad>false</ad>
-        <show_in_slider>true</show_in_slider>
-        <image>https://onesignal.com/blog/content/images/size/w900/2022/12/10-effective-push-notification-examples-and-why-they-work.jpg</image>
-        <image_clicked_link>https://www.lpu.in/</image_clicked_link>
-        <html>https://www.selfstudy360.com/2020/12/1-biology-class-12-chapter-1-Reproduction-in-Lower-and-Higher-Plants-MHTCET-NEET-MCQ.html</html>
-    </notif>
-    <notif>
-        <title>Maharashtra State board update 1 </title>
-        <ad>false</ad>
-        <show_in_slider>true</show_in_slider>
-        <image>https://d35fo82fjcw0y8.cloudfront.net/2021/05/10131852/Push-Notification-Header.png</image>
-        <image_clicked_link>https://www.lpu.in/</image_clicked_link>
-        <html>https://www.selfstudy360.com/2020/12/1-biology-class-12-chapter-1-Reproduction-in-Lower-and-Higher-Plants-MHTCET-NEET-MCQ.html</html>
-    </notif>
-    <notif>
-        <title>Maharashtra State board update 2</title>
-        <show_in_slider>true</show_in_slider>
-
-    </notif>
-    <notif>
-        <title>Maharashtra State board update 3</title>
-        <ad>true</ad>
-        <show_in_slider>true</show_in_slider>
-        <image>https://onesignal.com/blog/content/images/size/w900/2022/01/what-is-a-push-notifications-service-2.jpg</image>
-        <image_clicked_link>https://www.lpu.in/</image_clicked_link>
-        <html>https://www.selfstudy360.com/2020/12/1-biology-class-12-chapter-1-Reproduction-in-Lower-and-Higher-Plants-MHTCET-NEET-MCQ.html</html>
-    </notif>
+   
 </notifications>
