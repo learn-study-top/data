@@ -226,7 +226,8 @@
 						<solution name="Exercise 4.3" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_4 (3).pdf"/>
 						<solution name="Exercise 4.4" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_4 (4).pdf"/>
 						<solution name="Exercise 4.5" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_4 (5).pdf"/>
-						<solution name="Miscellaneous Exercise 4" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_3 (6).pdf"/>
+						<solution name="Miscellaneous Exercise 4" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_4 (6).pdf"/>
+						<solution name="Activity" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_4 (7).pdf"/>
 					</solutions>
 				</chapter>
 				<chapter name="5 - Locus and Straight Line">
@@ -237,7 +238,7 @@
 						<solution name="Exercise 5.3" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_5 (3).pdf"/>
 						<solution name="Exercise 5.4" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_5 (4).pdf"/>
 						<solution name="Miscellaneous Exercise 5" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_5 (5).pdf"/>
-						<solution name="Activity" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_3 (6).pdf"/>
+						<solution name="Activity" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_5 (6).pdf"/>
 					</solutions>
 				</chapter>
 				<chapter name="6 - Determinants">
@@ -258,6 +259,7 @@
 						<solution name="Exercise 7.3" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_7 (3).pdf"/>
 						<solution name="Exercise 7.4" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_7 (4).pdf"/>
 						<solution name="Miscellaneous Exercise 7" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_7 (5).pdf"/>
+						<solution name="Activity" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_7 (6).pdf"/>
 					</solutions>
 				</chapter>
 				<chapter name="8 - Continuity">
@@ -271,9 +273,9 @@
 				<chapter name="9 - Differentiation">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_11/eng/chapter_pdf/1103030418 (9).pdf"/>
 					<solutions name="Exercise solutions">
-						<solution name="Exercise 9.1" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_1 (1).pdf"/>
-						<solution name="Exercise 9.2" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_1 (2).pdf"/>
-						<solution name="Miscellaneous Exercise 9" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_1 (3).pdf"/>
+						<solution name="Exercise 9.1" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_9 (1).pdf"/>
+						<solution name="Exercise 9.2" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_9 (2).pdf"/>
+						<solution name="Miscellaneous Exercise 9" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_9 (3).pdf"/>
 						<solution name="Activity" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_9 (4).pdf"/>
 					</solutions>
 				</chapter>
@@ -300,7 +302,7 @@
 						<solution name="Exercise 2.2" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_2_chap_2 (2).pdf"/>
 						<solution name="Exercise 2.3" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_2_chap_2 (3).pdf"/>
 						<solution name="Miscellaneous Exercise 2" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_2_chap_1 (4).pdf"/>
-						<solution name="Activity" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_1 (5).pdf"/>
+						<solution name="Activity" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_2 (5).pdf"/>
 					</solutions>
 				</chapter>
 				<chapter name="3 - Skewness">
@@ -316,7 +318,7 @@
 					<solutions name="Exercise solutions">
 						<solution name="Exercise 4.1" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_2_chap_4 (1).pdf"/>
 						<solution name="Exercise 4.2" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_2_chap_4 (2).pdf"/>
-						<solution name="Miscellaneous Exercise 4" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_2_chap_1 (3).pdf"/>
+						<solution name="Miscellaneous Exercise 4" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_2_chap_4 (3).pdf"/>
 						<solution name="Activity" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_1_chap_4 (4).pdf"/>
 					</solutions>
 				</chapter>
@@ -374,6 +376,7 @@
 						<solution name="Exercise 9.6" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_2_chap_9 (6).pdf"/>
 						<solution name="Exercise 9.7" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_2_chap_9 (7).pdf"/>
 						<solution name="Miscellaneous Exercise 9" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_2_chap_9 (8 ).pdf"/>
+						<solution name="Activity" value="/0_NEW_APP_DATA/class_11/eng/solutions/11_com_maths_2_chap_9 (9).pdf"/>
 					</solutions>
 				</chapter>
 				<chapter name="Answers">
