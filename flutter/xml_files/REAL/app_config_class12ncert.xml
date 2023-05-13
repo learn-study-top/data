@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <root>
 	<class name="Class XII NCERT">
 		<medium name="English" sub_name="Medium">
@@ -21,8 +20,14 @@
 				<chapter name="6 - Application of Derivatives ">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_maths_eng (6).pdf"/>
 				</chapter>
+				<chapter name="Appendix 1">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_maths_eng_appendix_1.pdf"/>
+				</chapter>
+				<chapter name="Appendix 2">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_maths_eng_appendix_2.pdf"/>
+				</chapter>
 				<chapter name="Answers">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_maths_eng (14).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_maths_eng_answers_1.pdf"/>
 				</chapter>
 			</subject>
 			<subject name="Mathematics Part 2" book_cover="/0_NEW_APP_DATA/class_12_ncert/images/lemh2cc-min.jpg">
@@ -48,7 +53,7 @@
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_maths_eng (13).pdf"/>
 				</chapter>
 				<chapter name="Answers">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_maths_eng (15).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_maths_eng_answers_2.pdf"/>
 				</chapter>
 			</subject>
 			<subject name="Physics" book_cover="/0_NEW_APP_DATA/class_12_ncert/images/leph1cc-min.jpg">
@@ -94,33 +99,36 @@
 				<chapter name="14 - Semiconductor Electronic: Material, Devices And Simple Circuits">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_physics_eng (14).pdf"/>
 				</chapter>
+				<chapter name="APPENDICES">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_physics_eng_appendices.pdf"/>
+				</chapter>
 				<chapter name="Answers 1">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_physics_eng (15).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_physics_eng_answers_1.pdf"/>
 				</chapter>
 				<chapter name="Answers 2">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_physics_eng (16).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_physics_eng_answers_2.pdf"/>
 				</chapter>
 			</subject>
 			<subject name="Chemistry" book_cover="/0_NEW_APP_DATA/class_12_ncert/images/lech1cc-min.jpg">
-				<chapter name="1 - The Solid State">
+				<chapter name="*1 - The Solid State">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng (1).pdf"/>
 				</chapter>
 				<chapter name="2 - Solutions">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng (2).pdf"/>
 				</chapter>
-				<chapter name="3 - Electro chemistry">
+				<chapter name="3 - Electrochemistry">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng (3).pdf"/>
 				</chapter>
 				<chapter name="4 - Chemical Kinetics">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng (4).pdf"/>
 				</chapter>
-				<chapter name="5 - Surface Chemistry">
+				<chapter name="*5 - Surface Chemistry">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng (5).pdf"/>
 				</chapter>
-				<chapter name="6 - General Principles and Processes of Isolation of Elements">
+				<chapter name="*6 - General Principles and Processes of Isolation of Elements">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng (6).pdf"/>
 				</chapter>
-				<chapter name="7 - The p Block Elements">
+				<chapter name="*7 - The p Block Elements">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng (7).pdf"/>
 				</chapter>
 				<chapter name="8 - The d and f Block Elements">
@@ -144,21 +152,24 @@
 				<chapter name="14 - Biomolecules">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng (14).pdf"/>
 				</chapter>
-				<chapter name="15 - Polymers">
+				<chapter name="*15 - Polymers">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng (15).pdf"/>
 				</chapter>
-				<chapter name="16 - Chemistry in Everyday Life">
+				<chapter name="*16 - Chemistry in Everyday Life">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng (16).pdf"/>
 				</chapter>
+				<chapter name="Appendix">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng_appendix.pdf"/>
+				</chapter>
 				<chapter name="Answers 1">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng (17).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng_answers_1.pdf"/>
 				</chapter>
 				<chapter name="Answers 2">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng (18).pdf"/>
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_chemistry_eng_answers_2.pdf"/>
 				</chapter>
 			</subject>
 			<subject name="Biology" book_cover="/0_NEW_APP_DATA/class_12_ncert/images/lebo1cc-min.jpg">
-				<chapter name="1 - Reproduction in Organisms">
+				<chapter name="*1 - Reproduction in Organisms">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_biology_eng (1).pdf"/>
 				</chapter>
 				<chapter name="2 - Sexual Reproduction in Flowering Plants">
@@ -182,7 +193,7 @@
 				<chapter name="8 - Human Health and Disease">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_biology_eng (8).pdf"/>
 				</chapter>
-				<chapter name="9 - Strategies for Enhancement in Food Production">
+				<chapter name="*9 - Strategies for Enhancement in Food Production">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_biology_eng (9).pdf"/>
 				</chapter>
 				<chapter name="10 - Microbes in Human Welfare">
@@ -203,14 +214,8 @@
 				<chapter name="15 - Biodiversity and Conservation">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_biology_eng (15).pdf"/>
 				</chapter>
-				<chapter name="16 - Environmental Issues">
+				<chapter name="*16 - Environmental Issues">
 					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_biology_eng (16).pdf"/>
-				</chapter>
-				<chapter name="Answers 1">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_biology_eng (17).pdf"/>
-				</chapter>
-				<chapter name="Answers 2">
-					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_12_ncert/eng/chapter_pdf/ncert_xii_biology_eng (18).pdf"/>
 				</chapter>
 			</subject>
 		</medium>
