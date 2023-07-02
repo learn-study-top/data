@@ -5,21 +5,16 @@
         <ad>false</ad>
         <show_in_slider>true</show_in_slider>
         <image>https://learn-study-top.github.io/data/notif_img/class11_com_math_stat_part1.jpeg</image>
-        <image_clicked_link>https://www.selfstudy360.com/2022/11/class-11-biology-chapter-6-anatomy-of-flowering-plants-neet-dpp.html</image_clicked_link>
-        <html>https://www.selfstudy360.com/2022/11/class-11-biology-chapter-6-anatomy-of-flowering-plants-neet-dpp.html</html>
-    </notif>
-    <notif>
-        <title>Maharashtra State board update 2</title>
-        <show_in_slider>true</show_in_slider>
-
+        <image_clicked_link>https://www.selfstudy360.com/</image_clicked_link>
+        <html>https://www.selfstudy360.com/</html>
     </notif>
     <notif>
         <title>Maharashtra State board update 3</title>
         <ad>true</ad>
         <show_in_slider>true</show_in_slider>
         <image>https://learn-study-top.github.io/data/notif_img/Notif_Img.jpeg</image>
-        <image_clicked_link>https://www.lpu.in/</image_clicked_link>
-        <html>https://www.selfstudy360.com/2020/12/1-biology-class-12-chapter-1-Reproduction-in-Lower-and-Higher-Plants-MHTCET-NEET-MCQ.html</html>
+        <image_clicked_link>https://www.selfstudy360.com/</image_clicked_link>
+        <html>https://www.selfstudy360.com/</html>
     </notif>
    
 </notifications>
