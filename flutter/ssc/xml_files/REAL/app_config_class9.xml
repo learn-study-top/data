@@ -1,1 +1,1633 @@
-
+<root>
+	<class name="Class IX">
+		<medium name="English" sub_name="Medium">
+			<subject name="Mathematics- I " book_cover="/0_NEW_APP_DATA/class_9/images/903000608.jpg">
+				<chapter name="1 Sets">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (1).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 1.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_1 (1).pdf"/>
+						<solution name="Practice Set 1.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_1 (2).pdf"/>
+						<solution name="Practice Set 1.3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_1 (3).pdf"/>
+						<solution name="Practice Set 1.4" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_1 (4).pdf"/>						
+						<solution name="Problem Set 1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_1 (5).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="2 Real Numbers">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (2).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 2.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_2 (1).pdf"/>
+						<solution name="Practice Set 2.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_2 (2).pdf"/>
+						<solution name="Practice Set 2.3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_2 (3).pdf"/>
+						<solution name="Practice Set 2.4" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_2 (4).pdf"/>
+						<solution name="Practice Set 2.5" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_2 (5).pdf"/>
+						<solution name="Problem Set 2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_2 (6).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="3 Polynomials">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (3).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 3.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_3 (1).pdf"/>
+						<solution name="Practice Set 3.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_3 (2).pdf"/>
+						<solution name="Practice Set 3.3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_3 (3).pdf"/>
+						<solution name="Practice Set 3.4" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_3 (4).pdf"/>
+						<solution name="Practice Set 3.5" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_3 (5).pdf"/>
+						<solution name="Practice Set 3.6" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_3 (6).pdf"/>
+						<solution name="Problem Set 3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_3 (7).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="4 Ratio and Proportion">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (4).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 4.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_4 (1).pdf"/>
+						<solution name="Practice Set 4.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_4 (2).pdf"/>
+						<solution name="Practice Set 4.3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_4 (3).pdf"/>
+						<solution name="Practice Set 4.4" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_4 (4).pdf"/>
+						<solution name="Practice Set 4.5" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_4 (5).pdf"/>
+						<solution name="Problem Set 4" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_4 (6).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="5 Linear Equations in Two Variables">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (5).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 5.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_5 (1).pdf"/>
+						<solution name="Practice Set 5.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_5 (2).pdf"/>
+						<solution name="Problem Set 5" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_5 (3).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="6 Financial Planning">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (6).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 6.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_6 (1).pdf"/>
+						<solution name="Practice Set 6.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_6 (2).pdf"/>
+						<solution name="Problem Set 6" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_6 (3).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="7 Statistics">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (7).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 7.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_7 (1).pdf"/>
+						<solution name="Practice Set 7.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_7 (2).pdf"/>
+						<solution name="Practice Set 7.3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_7 (3).pdf"/>
+						<solution name="Practice Set 7.4" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_7 (4).pdf"/>
+						<solution name="Practice Set 7.5" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_7 (5).pdf"/>
+						<solution name="Problem Set 7" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_1_chap_7 (6).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="8 Challenging Questions">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (8).pdf"/>
+				</chapter>
+				<chapter name="9 Model Activity Sheet">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000608 (9).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="Mathematics- II " book_cover="/0_NEW_APP_DATA/class_9/images/903000609.jpg">
+				<chapter name="1 Basic Concepts of Geometry">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000609 (1).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 1.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_1 (1).pdf"/>
+						<solution name="Practice Set 1.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_1 (2).pdf"/>
+						<solution name="Practice Set 1.3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_1 (3).pdf"/>
+						<solution name="Problem Set 1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_1 (4).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="2 Parallel Lines">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000609 (2).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 2.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_2 (1).pdf"/>
+						<solution name="Practice Set 2.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_2 (2).pdf"/>
+						<solution name="Problem Set 2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_2 (3).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="3 Triangles">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000609 (3).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 3.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_3 (1).pdf"/>
+						<solution name="Practice Set 3.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_3 (2).pdf"/>
+						<solution name="Practice Set 3.3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_3 (3).pdf"/>
+						<solution name="Practice Set 3.4" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_3 (4).pdf"/>
+						<solution name="Practice Set 3.5" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_3 (5).pdf"/>
+						<solution name="Problem Set 3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_3 (6).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="4 Constructions of Triangles">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000609 (4).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 4.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_4 (1).pdf"/>
+						<solution name="Practice Set 4.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_4 (2).pdf"/>
+						<solution name="Practice Set 4.3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_4 (3).pdf"/>
+						<solution name="Problem Set 4" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_4 (4).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="5 Quadrilaterals">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000609 (5).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 5.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_5 (1).pdf"/>
+						<solution name="Practice Set 5.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_5 (2).pdf"/>
+						<solution name="Practice Set 5.3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_5 (3).pdf"/>
+						<solution name="Practice Set 5.4" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_5 (4).pdf"/>
+						<solution name="Practice Set 5.5" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_5 (5).pdf"/>
+						<solution name="Problem Set 5" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_5 (6).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="6 Circle">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000609 (6).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 6.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_6 (1).pdf"/>
+						<solution name="Practice Set 6.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_6 (2).pdf"/>
+						<solution name="Practice Set 6.3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_6 (3).pdf"/>
+						<solution name="Problem Set 6" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_6 (4).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="7 Coordinate Geometry">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000609 (7).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 7.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_7 (1).pdf"/>
+						<solution name="Practice Set 7.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_7 (2).pdf"/>
+						<solution name="Problem Set 7" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_7 (3).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="8 Trigonometry">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000609 (8).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 8.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_8 (1).pdf"/>
+						<solution name="Practice Set 8.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_8 (2).pdf"/>
+						<solution name="Problem Set 8" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_8 (3).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="9 Surface Area and Volume">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000609 (9).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 9.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_9 (1).pdf"/>
+						<solution name="Practice Set 9.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_9 (2).pdf"/>
+						<solution name="Practice Set 9.3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_9 (3).pdf"/>
+						<solution name="Problem Set 9" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_9 (4).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="8 Trigonometry">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000609 (8).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 8.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_8 (1).pdf"/>
+						<solution name="Practice Set 8.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_8 (2).pdf"/>
+						<solution name="Practice Set 8.3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_8 (3).pdf"/>
+						<solution name="Practice Set 8.4" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_8 (4).pdf"/>
+						<solution name="Practice Set 8.5" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_8 (5).pdf"/>
+						<solution name="Problem Set 8" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_8 (6).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="9 Surface Area and Volume">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000609 (9).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 9.1" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_9 (1).pdf"/>
+						<solution name="Practice Set 9.2" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_9 (2).pdf"/>
+						<solution name="Practice Set 9.3" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_9 (3).pdf"/>
+						<solution name="Practice Set 9.4" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_9 (4).pdf"/>
+						<solution name="Practice Set 9.5" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_9 (5).pdf"/>
+						<solution name="Problem Set 9" value="/0_NEW_APP_DATA/class_9/eng/solutions/9_eng_maths_2_chap_9 (6).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="10 Challenging Questions">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000609 (10).pdf"/>
+				</chapter>
+				<chapter name="11 Model Activity Sheets">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000609 (11).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="Science &amp; Technology" book_cover="/0_NEW_APP_DATA/class_9/images/903020456.jpg">
+				<chapter name="1 Laws of Motion (Part - 1)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (1).pdf"/>
+				</chapter>
+				<chapter name="2 Work and Energy (Part 1)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (2).pdf"/>
+				</chapter>
+				<chapter name="3 Current Electricity (Part 1)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (3).pdf"/>
+				</chapter>
+				<chapter name="4 Measurement of Matter (Part - 1)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (4).pdf"/>
+				</chapter>
+				<chapter name="5 Acids, Bases and Salts (Part 1)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (5).pdf"/>
+				</chapter>
+				<chapter name="6 Classification of Plants (Part 2)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (6).pdf"/>
+				</chapter>
+				<chapter name="7 Energy Flow in an Ecosystem (Part - 2)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (7).pdf"/>
+				</chapter>
+				<chapter name="8 Useful and Harmful Microbes (Part-2)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (8).pdf"/>
+				</chapter>
+				<chapter name="9 Environmental Management (Part - 2)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (9).pdf"/>
+				</chapter>
+				<chapter name="10 Information Communication Technology: The new direction of...">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (10).pdf"/>
+				</chapter>
+				<chapter name="11 Reflection of Light (Part - 1)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (11).pdf"/>
+				</chapter>
+				<chapter name="12 Study of Sound (Part - 1)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (12).pdf"/>
+				</chapter>
+				<chapter name="13 Carbon : An Important Element (Part - 1)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (13).pdf"/>
+				</chapter>
+				<chapter name="14 Substances in Common Use (Part - 1)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (14).pdf"/>
+				</chapter>
+				<chapter name="15 Life Processes in Living Organisms (Part 2)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (15).pdf"/>
+				</chapter>
+				<chapter name="16 Heredity and Variation (Part-2)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (16).pdf"/>
+				</chapter>
+				<chapter name="17 Introduction to Biotechnology (Part-2)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (17).pdf"/>
+				</chapter>
+				<chapter name="18 Observing Space : Telescopes (Part-2)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020456 (18).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="History and Political Science" book_cover="/0_NEW_APP_DATA/class_9/images/903010491.jpg">
+				<chapter name="1 Sources of History">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (1).pdf"/>
+				</chapter>
+				<chapter name="2 India : Events after 1960">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (2).pdf"/>
+				</chapter>
+				<chapter name="3 India's Internal Challenges">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (3).pdf"/>
+				</chapter>
+				<chapter name="4 Economic Development">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (4).pdf"/>
+				</chapter>
+				<chapter name="5 Education">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (5).pdf"/>
+				</chapter>
+				<chapter name="6 Empowerment of Women and other Weaker Sections">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (6).pdf"/>
+				</chapter>
+				<chapter name="7 Science and Technology">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (7).pdf"/>
+				</chapter>
+				<chapter name="8 Industry and Trade">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (8).pdf"/>
+				</chapter>
+				<chapter name="9 Changing Life : 1">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (9).pdf"/>
+				</chapter>
+				<chapter name="10 Changing Life : 2">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (10).pdf"/>
+				</chapter>
+				<chapter name="11 Post World War Political Developments">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (11).pdf"/>
+				</chapter>
+				<chapter name="12 India's Foreign Policy">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (12).pdf"/>
+				</chapter>
+				<chapter name="13 India's Defence System">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (13).pdf"/>
+				</chapter>
+				<chapter name="14 The United Nations (UN)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (14).pdf"/>
+				</chapter>
+				<chapter name="15 India and other Countries">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (15).pdf"/>
+				</chapter>
+				<chapter name="16 International Problems">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903010491 (16).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="Geography" book_cover="/0_NEW_APP_DATA/class_9/images/903020011.jpg">
+				<chapter name=" 1: Distributional Maps">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020011 (1).pdf"/>
+				</chapter>
+				<chapter name=" 2: Endogenetic Movements">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020011 (2).pdf"/>
+				</chapter>
+				<chapter name=" 3: Exogenetic Movements Part-1">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020011 (3).pdf"/>
+				</chapter>
+				<chapter name=" 4: Exogenetic Movements Part-2">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020011 (4).pdf"/>
+				</chapter>
+				<chapter name=" 5: Precipitation">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020011 (5).pdf"/>
+				</chapter>
+				<chapter name=" 6: Properties of sea water">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020011 (6).pdf"/>
+				</chapter>
+				<chapter name=" 7: International Date Line">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020011 (7).pdf"/>
+				</chapter>
+				<chapter name=" 8: Introduction to Economics">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020011 (8).pdf"/>
+				</chapter>
+				<chapter name=" 9: Trade">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020011 (9).pdf"/>
+				</chapter>
+				<chapter name=" 10: Urbanisation">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020011 (10).pdf"/>
+				</chapter>
+				<chapter name=" 11: Transport and Communication">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020011 (11).pdf"/>
+				</chapter>
+				<chapter name=" 12: Tourism">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903020011 (12).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="Defence Studies" book_cover="/0_NEW_APP_DATA/class_9/images/903000611.jpg">
+				<chapter name="1. National Security">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000611 (1).pdf"/>
+				</chapter>
+				<chapter name="2. Challenges to National Security (External)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000611 (2).pdf"/>
+				</chapter>
+				<chapter name="3. India’s Defence System">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000611 (3).pdf"/>
+				</chapter>
+				<chapter name="4. Indian Army">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000611 (4).pdf"/>
+				</chapter>
+				<chapter name="5. Indian Navy">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000611 (5).pdf"/>
+				</chapter>
+				<chapter name="6. Indian Air Force">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000611 (6).pdf"/>
+				</chapter>
+				<chapter name="7. Paramilitary Forces">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000611 (7).pdf"/>
+				</chapter>
+				<chapter name="8. Police Organisation">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000611 (8).pdf"/>
+				</chapter>
+				<chapter name="9. Career Opportunities in Defence Services">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000611 (9).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="Self Developement and Art Appreciation" book_cover="/0_NEW_APP_DATA/class_9/images/903000610.jpg">
+				<chapter name="1. My Identity ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000610 (1).pdf"/>
+				</chapter>
+				<chapter name="2. Growing Up ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000610 (2).pdf"/>
+				</chapter>
+				<chapter name="3. Values ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000610 (3).pdf"/>
+				</chapter>
+				<chapter name="4. Social Leadership ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000610 (4).pdf"/>
+				</chapter>
+				<chapter name="5. Art Appreciation – Visual Arts ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000610 (5).pdf"/>
+				</chapter>
+				<chapter name="6. Conflict Resolution ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000610 (6).pdf"/>
+				</chapter>
+				<chapter name="7. Growth Mindset ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000610 (7).pdf"/>
+				</chapter>
+				<chapter name="8. Careers 83">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000610 (8).pdf"/>
+				</chapter>
+				<chapter name="9. Art Appreciation – Performing Arts ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/eng/chapter_pdf/903000610 (9).pdf"/>
+				</chapter>
+			</subject>
+		</medium>
+		<medium name="हिंदी" sub_name="माध्यम">
+			<subject name="विज्ञान और प्रौद्योगिकी" book_cover="/0_NEW_APP_DATA/class_9/images/902020456.jpg">
+				<chapter name=" 1. गति के नियम ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (1).pdf"/>
+				</chapter>
+				<chapter name=" 2. कार्य और ऊर्जा.">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (2).pdf"/>
+				</chapter>
+				<chapter name="3. धारा विद्‌युत ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (3).pdf"/>
+				</chapter>
+				<chapter name=" 4. द्रव्य का मापन">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (4).pdf"/>
+				</chapter>
+				<chapter name=" 5. अम्ल, क्षारक तथा लवण.">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (5).pdf"/>
+				</chapter>
+				<chapter name=" 6. वनस्पतियों का वर्गीकरण">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (6).pdf"/>
+				</chapter>
+				<chapter name=" 7. परितंत्र के ऊर्जा प्रवाह ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (7).pdf"/>
+				</chapter>
+				<chapter name=" 8. उपयुक्त और उपद्रवी सूक्ष्मजीव">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (8).pdf"/>
+				</chapter>
+				<chapter name=" 9. पर्यावरण व्यवस्थापन ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (9).pdf"/>
+				</chapter>
+				<chapter name="10. सूचना एवं संचार प्रौद्‌योगिकी : प्रगति की नई दिशा ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (10).pdf"/>
+				</chapter>
+				<chapter name="11. प्रकाश का परावर्तन">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (11).pdf"/>
+				</chapter>
+				<chapter name="12. ध्वनि का अध्ययन ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (12).pdf"/>
+				</chapter>
+				<chapter name="13. कार्बन : एक महत्त्वपूर्णतत्‍त्‍व ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (13).pdf"/>
+				</chapter>
+				<chapter name="14. हमारे उपयोगी पदार्थ ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (14).pdf"/>
+				</chapter>
+				<chapter name="15. सजीवों की जीवन प्रक्रियाएँ. ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (15).pdf"/>
+				</chapter>
+				<chapter name="16. आनुवंशिकता और परिवर्तन ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (16).pdf"/>
+				</chapter>
+				<chapter name="17. जैव प्रौद्‌योगिकी की पहचान .">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (17).pdf"/>
+				</chapter>
+				<chapter name="18. अंतरिक्ष अवलोकन : दूरबीनें (दूरदर्शी) .">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020456 (18).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="गणित भाग १" book_cover="/0_NEW_APP_DATA/class_9/images/902000608.jpg">
+				<chapter name="1. समुच्चय">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000608 (1).pdf"/>
+				</chapter>
+				<chapter name="2. वास्तविक संख्याएँ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000608 (2).pdf"/>
+				</chapter>
+				<chapter name="3. बहुपद">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000608 (3).pdf"/>
+				</chapter>
+				<chapter name="4. अनुपात और समानुपात">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000608 (4).pdf"/>
+				</chapter>
+				<chapter name="5. दो चरों वाले रेखीय समीकरण">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000608 (5).pdf"/>
+				</chapter>
+				<chapter name="6. आर्थिक नियोजन">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000608 (6).pdf"/>
+				</chapter>
+				<chapter name="7. सांख्यिकी">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000608 (7).pdf"/>
+				</chapter>
+				<chapter name=". उत्तर सूची">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000608 (8).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="गणित भाग २" book_cover="/0_NEW_APP_DATA/class_9/images/902000609.jpg">
+				<chapter name="1. भूमिति के मूलभूत संबोध ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000609 (1).pdf"/>
+				</chapter>
+				<chapter name="2. समांतर रेखाएँ ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000609 (2).pdf"/>
+				</chapter>
+				<chapter name="3. त्रिभुज ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000609 (3).pdf"/>
+				</chapter>
+				<chapter name="4. त्रिभुजों की रचनाएँ ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000609 (4).pdf"/>
+				</chapter>
+				<chapter name="5. चतुर्भुज ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000609 (5).pdf"/>
+				</chapter>
+				<chapter name="6. वृत्त ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000609 (6).pdf"/>
+				</chapter>
+				<chapter name="7. निर्देशांक भूमिति ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000609 (7).pdf"/>
+				</chapter>
+				<chapter name="8. त्रिकोणमिति ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000609 (8).pdf"/>
+				</chapter>
+				<chapter name="9. पृष्ठफल तथा घनफल ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000609 (9).pdf"/>
+				</chapter>
+				<chapter name="· उत्तर सूची ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000609 (10).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="इतिहास और राजनीति विज्ञान" book_cover="/0_NEW_APP_DATA/class_9/images/902010491.jpg">
+				<chapter name="1. इतिहास के साधन">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902010491 (1).pdf"/>
+				</chapter>
+				<chapter name="2. भारत : १९६० के बाद की घटनाएँ.">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902010491 (2).pdf"/>
+				</chapter>
+				<chapter name="3. भारत के सम्मुख आंतरिक चुनौतियाँ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902010491 (3).pdf"/>
+				</chapter>
+				<chapter name="4. आर्थिक विकास">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902010491 (4).pdf"/>
+				</chapter>
+				<chapter name="5. शिक्षा की विकास यात्रा..">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902010491 (5).pdf"/>
+				</chapter>
+				<chapter name="6. महिला और अन्य कमजोर वर्गों का सशक्तिकरण">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902010491 (6).pdf"/>
+				</chapter>
+				<chapter name="7. विज्ञान और प्रौद्योगिकी">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902010491 (7).pdf"/>
+				</chapter>
+				<chapter name="8. उद्योग तथा व्यापार">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902010491 (8).pdf"/>
+				</chapter>
+				<chapter name="9. बदलता जीवन : भाग १">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902010491 (9).pdf"/>
+				</chapter>
+				<chapter name="10. बदलता जीवन : भाग २.">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902010491 (10).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="भूगोल" book_cover="/0_NEW_APP_DATA/class_9/images/902020011.jpg">
+				<chapter name="1. वितरण के मानचित्र">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020011 (1).pdf"/>
+				</chapter>
+				<chapter name="2. आंतरिक हलचलें">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020011 (2).pdf"/>
+				</chapter>
+				<chapter name="3. बाह्य प्रक्रिया भाग-१">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020011 (3).pdf"/>
+				</chapter>
+				<chapter name="4. बाह्य प्रक्रिया भाग-२">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020011 (4).pdf"/>
+				</chapter>
+				<chapter name="5. वृष्टि (वर्षा)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020011 (5).pdf"/>
+				</chapter>
+				<chapter name="6. समुद्री जल के गुणधर्म">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020011 (6).pdf"/>
+				</chapter>
+				<chapter name="7. अंतरराष्ट्रीय तिथि रेखा">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020011 (7).pdf"/>
+				</chapter>
+				<chapter name="8. अर्थशास्त्र का परिचय">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020011 (8).pdf"/>
+				</chapter>
+				<chapter name="9. व्यापार">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020011 (9).pdf"/>
+				</chapter>
+				<chapter name="10. नगरीयकरण">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020011 (10).pdf"/>
+				</chapter>
+				<chapter name="11. यातायात और संचार माध्यम">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020011 (11).pdf"/>
+				</chapter>
+				<chapter name="12. पर्यटन">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020011 (12).pdf"/>
+				</chapter>
+				<chapter name="परिशिष्ट">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902020011 (13).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="संरक्षणशास्त्र" book_cover="/0_NEW_APP_DATA/class_9/images/902000611.jpg">
+				<chapter name="१. राष्‍ट्रीय सुरक्षा">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000611 (1).pdf"/>
+				</chapter>
+				<chapter name="२. राष्‍ट्रीय सुरक्षा की चुनौतियाँ (बाह्‌य) ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000611 (2).pdf"/>
+				</chapter>
+				<chapter name="३. भारतीय सुरक्षा व्यवस्‍था">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000611 (3).pdf"/>
+				</chapter>
+				<chapter name="4. भारतीय थलसेना ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000611 (4).pdf"/>
+				</chapter>
+				<chapter name="5. भारतीय नौसेना">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000611 (5).pdf"/>
+				</chapter>
+				<chapter name="६. भारतीय वायुसेना ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000611 (6).pdf"/>
+				</chapter>
+				<chapter name="७. सुरक्षा के दुय्यम संगठन">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000611 (7).pdf"/>
+				</chapter>
+				<chapter name="8. पुलिस बल">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000611 (8).pdf"/>
+				</chapter>
+				<chapter name="९. सेना में सेवा अवसर ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000611 (9).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="सस्व-विकास व कलारसास्वाद" book_cover="/0_NEW_APP_DATA/class_9/images/902000610.jpg">
+				<chapter name="1. 'स्व'- पहचान">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000610 (1).pdf"/>
+				</chapter>
+				<chapter name="2. वृद्धि की आयु">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000610 (2).pdf"/>
+				</chapter>
+				<chapter name="3. मूल्य">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000610 (3).pdf"/>
+				</chapter>
+				<chapter name="4. सामाजिक नेतृत्व">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000610 (4).pdf"/>
+				</chapter>
+				<chapter name="5. कला रसास्वाद-दृश्य कला">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000610 (5).pdf"/>
+				</chapter>
+				<chapter name="6. संघर्ष मिटाना">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000610 (6).pdf"/>
+				</chapter>
+				<chapter name="7. वृद्धि के लिए पूरक मानसिकता">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000610 (7).pdf"/>
+				</chapter>
+				<chapter name="8. कैरियर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000610 (8).pdf"/>
+				</chapter>
+				<chapter name="9. कला रसास्वाद प्रयोगजीवी कला">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/hindi/chapter_pdf/902000610 (9).pdf"/>
+				</chapter>
+			</subject>
+		</medium>
+		<medium name="मराठी" sub_name="माध्यम">
+			<subject name="विज्ञान आणि तंत्रज्ञान" book_cover="/0_NEW_APP_DATA/class_9/images/901020456.jpg">
+				<chapter name="1. गतीचे नियम">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (1).pdf"/>
+				</chapter>
+				<chapter name="2. कार्य आणि ऊर्जा">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (2).pdf"/>
+				</chapter>
+				<chapter name="3. धाराविदयुत">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (3).pdf"/>
+				</chapter>
+				<chapter name="4. द्रव्याचे मोजमाप">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (4).pdf"/>
+				</chapter>
+				<chapter name="5. आम्ल, आम्लारी व क्षार">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (5).pdf"/>
+				</chapter>
+				<chapter name="6. वनस्पतींचे वर्गीकरण">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (6).pdf"/>
+				</chapter>
+				<chapter name="7. परिसंस्थेतील ऊर्जाप्रवाह">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (7).pdf"/>
+				</chapter>
+				<chapter name="8. उपयुक्त व उपद्रवी सूक्ष्मजीव पर्यावरणीय व्यवस्थापन">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (8).pdf"/>
+				</chapter>
+				<chapter name="9. माहिती संप्रेषण तंत्रज्ञान: प्रगतीची नवी दिशा">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (9).pdf"/>
+				</chapter>
+				<chapter name="10. प्रकाशाचे परावर्तन">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (10).pdf"/>
+				</chapter>
+				<chapter name="11. ध्वनीचा अभ्यास">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (11).pdf"/>
+				</chapter>
+				<chapter name="12. कार्बन: एक महत्त्वाचे मूलद्रव्य">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (12).pdf"/>
+				</chapter>
+				<chapter name="13. पदार्थ आपल्या वापरातील">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (13).pdf"/>
+				</chapter>
+				<chapter name="14. सजीवांमधील जीवनप्रक्रिया">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (14).pdf"/>
+				</chapter>
+				<chapter name="15. आनुवंशिकता व परिवर्तन ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (15).pdf"/>
+				</chapter>
+				<chapter name="16. जैवतंत्रज्ञानाची ओळख">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (16).pdf"/>
+				</chapter>
+				<chapter name="17. अवकाश निरीक्षण दूरबीन">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020456 (17).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="गणित भाग १" book_cover="/0_NEW_APP_DATA/class_9/images/901000608.jpg">
+				<chapter name="1. संच">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000608 (1).pdf"/>
+				</chapter>
+				<chapter name="2. वास्तव संख्या">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000608 (2).pdf"/>
+				</chapter>
+				<chapter name="3. बहुपदी">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000608 (3).pdf"/>
+				</chapter>
+				<chapter name="4. गुणोत्तर व प्रमाण">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000608 (4).pdf"/>
+				</chapter>
+				<chapter name="5. दोन चलांतील रेषीय समीकरणे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000608 (5).pdf"/>
+				</chapter>
+				<chapter name="6. अर्थनियोजन">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000608 (6).pdf"/>
+				</chapter>
+				<chapter name="7. सांख्यिक">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000608 (7).pdf"/>
+				</chapter>
+				<chapter name="उत्तरसूची ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000608 (8).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="गणित भाग २" book_cover="/0_NEW_APP_DATA/class_9/images/901000609.jpg">
+				<chapter name="१ भूमितीतील मूलभूत संबोध">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000609 (1).pdf"/>
+				</chapter>
+				<chapter name="२ समांतर रेषा">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000609 (2).pdf"/>
+				</chapter>
+				<chapter name="३ त्रिकोण">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000609 (3).pdf"/>
+				</chapter>
+				<chapter name="४ त्रिकोण रचना">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000609 (4).pdf"/>
+				</chapter>
+				<chapter name="५ चौकोन">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000609 (5).pdf"/>
+				</chapter>
+				<chapter name="६ वर्तुळ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000609 (6).pdf"/>
+				</chapter>
+				<chapter name="७ निर्देशक भूमिती">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000609 (7).pdf"/>
+				</chapter>
+				<chapter name="८ त्रिकोणमिती">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000609 (8).pdf"/>
+				</chapter>
+				<chapter name="९ पृष्ठफळ व घनफळ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000609 (9).pdf"/>
+				</chapter>
+				<chapter name="उत्तरसूची ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000609 (10).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="इतिहास आणि राज्यशास्त्र" book_cover="/0_NEW_APP_DATA/class_9/images/901010491.jpg">
+				<chapter name="1. इतिहासाची साधने ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901010491 (1).pdf"/>
+				</chapter>
+				<chapter name="2. भारत : १९६० नंतरच्या घडामोडी">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901010491 (2).pdf"/>
+				</chapter>
+				<chapter name="3. भारतापुढील अंतर्गत आव्हाने ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901010491 (3).pdf"/>
+				</chapter>
+				<chapter name="4. आर्थिक विकास">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901010491 (4).pdf"/>
+				</chapter>
+				<chapter name="5. शैक्षणिक वाटचाल ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901010491 (5).pdf"/>
+				</chapter>
+				<chapter name="6. महिला व अन्य दुर्बल घटकांचे सक्षमीकरण">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901010491 (6).pdf"/>
+				</chapter>
+				<chapter name="7. विज्ञान व तंत्रज्ञान">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901010491 (7).pdf"/>
+				</chapter>
+				<chapter name="8. उदयोग व व्यापार ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901010491 (8).pdf"/>
+				</chapter>
+				<chapter name="9. बदलते जीवन : भाग १ ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901010491 (9).pdf"/>
+				</chapter>
+				<chapter name="10. बदलते जीवन : भाग २">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901010491 (10).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="भूगोल" book_cover="/0_NEW_APP_DATA/class_9/images/901020011.jpg">
+				<chapter name="1. महायुद्धोत्तर राजकीय घडामोडी ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (1).pdf"/>
+				</chapter>
+				<chapter name="2. भारताच्या परराष्ट्र धोरणाची वाटचाल ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (2).pdf"/>
+				</chapter>
+				<chapter name="3. भारताची सुरक्षा व्यवस्था ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (3).pdf"/>
+				</chapter>
+				<chapter name="4. संयुक्त राष्ट्रे ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (4).pdf"/>
+				</chapter>
+				<chapter name="5. भारत व अन्य देश">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (5).pdf"/>
+				</chapter>
+				<chapter name="6. आंतरराष्ट्रीय समस्या">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (6).pdf"/>
+				</chapter>
+				<chapter name="7. वितरणाचे नकाशे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (7).pdf"/>
+				</chapter>
+				<chapter name="8. अंतर्गत हालचाली">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (8).pdf"/>
+				</chapter>
+				<chapter name="9. बायप्रक्रिया भाग - १">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (9).pdf"/>
+				</chapter>
+				<chapter name="10. बायप्रक्रिया भाग - २">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (10).pdf"/>
+				</chapter>
+				<chapter name="11. वृष्टी">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (11).pdf"/>
+				</chapter>
+				<chapter name="12. सागरजलाचे गुणधर्म">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (12).pdf"/>
+				</chapter>
+				<chapter name="13. आंतरराष्ट्रीय वाररेषा">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (13).pdf"/>
+				</chapter>
+				<chapter name="14. अर्थशास्त्राशी परिचय">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (14).pdf"/>
+				</chapter>
+				<chapter name="15. व्यापार">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (15).pdf"/>
+				</chapter>
+				<chapter name="16. नागरीकरण">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (16).pdf"/>
+				</chapter>
+				<chapter name="17. वाहतूक व संदेशवहन">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901020011 (17).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="संरक्षणशास्त्र" book_cover="/0_NEW_APP_DATA/class_9/images/901000611.jpg">
+				<chapter name="१. राष्ट्रीय सुरक्षा">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000611 (1).pdf"/>
+				</chapter>
+				<chapter name="2. राष्ट्रीय सुरक्षा आव्हाने (बाह्य).">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000611 (2).pdf"/>
+				</chapter>
+				<chapter name="3. भारतीय संरक्षण व्यवस्था.">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000611 (3).pdf"/>
+				</chapter>
+				<chapter name="4. भारतीय स्थलसेना">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000611 (4).pdf"/>
+				</chapter>
+				<chapter name="5. भारतीय नौसेना">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000611 (5).pdf"/>
+				</chapter>
+				<chapter name="6. भारतीय वायुसेना.">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000611 (6).pdf"/>
+				</chapter>
+				<chapter name="7. संरक्षणाच्या दुय्यम संघटना.">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000611 (7).pdf"/>
+				</chapter>
+				<chapter name="8. पोलीस दले">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000611 (8).pdf"/>
+				</chapter>
+				<chapter name="9. लष्करातील सेवा संधी">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000611 (9).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="स्व-विकास व कलारसास्वाद " book_cover="/0_NEW_APP_DATA/class_9/images/901000610.jpg">
+				<chapter name="१. स्व-ओळख">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000610 (1).pdf"/>
+				</chapter>
+				<chapter name="२. वाढीचे वय">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000610 (2).pdf"/>
+				</chapter>
+				<chapter name="३. मूल्ये">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000610 (3).pdf"/>
+				</chapter>
+				<chapter name="4. सामाजिक नेतृत्व">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000610 (4).pdf"/>
+				</chapter>
+				<chapter name="5. कला रसास्वाद - दृश्य कला">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000610 (5).pdf"/>
+				</chapter>
+				<chapter name="६. संघर्ष मिटवणे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000610 (6).pdf"/>
+				</chapter>
+				<chapter name="७. वाढीस पूरक मानसिकता">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000610 (7).pdf"/>
+				</chapter>
+				<chapter name="८. करिअर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000610 (8).pdf"/>
+				</chapter>
+				<chapter name="9 .कला रसास्वाद - प्रयोगजीवी कला">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/marathi/chapter_pdf/901000610 (9).pdf"/>
+				</chapter>
+			</subject>
+		</medium>
+		<medium name="Languages" sub_name="भाषा">
+			<subject name="My English Course Book" book_cover="/0_NEW_APP_DATA/class_9/images/903000607.jpg">
+				<chapter name="1.1 Walk a little slower ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="1.2 The Fun they Had5">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="1.3 ‘Hope’ is the thing with feathers ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="1.4 The Story of Tea">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="1.5 The Necklace">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="2.1 Comparisons">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="2.2 Helen Keller and Anne Sullivan ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="2.3 Mark Twain">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="2.4 Please Listen!">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="2.5 A Play">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="3.1 Coromandel Fishers ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="3.2 The Fall of Troy ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="3.3 To a Butterfly ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="3.4 Think Before You Speak ! ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="3.5 Great Scientists">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="4.1 What is Success ? ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="4.2 Reading Works of Art">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="4.3 Silver ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="4.4 The Tempest">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="4.5 The Last Lesson ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+				<chapter name="Language Study ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903000607 (1).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="Kumarbharati English" book_cover="/0_NEW_APP_DATA/class_9/images/903030024.jpg">
+				<chapter name="1.1 Life ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="1.2 A Synopsis-The Swiss Family Robinson ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="1.3 Have you ever seen ... ?">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="1.4 Have you thought of the verb ‘have’ ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="1.5 The Necklace ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="2.1 Invictus ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="2.2 A True Story of Sea Turtles ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="2.3 Somebody’s Mother ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="2.4 The Fall of Troy ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="2.5 Autumn ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="2.6 The Past in the Present ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="3.1 Silver ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="3.2 Reading Works of Art ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="3.3 The Road Not Taken ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="3.4 How the First Letter was Written ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="4.1 Please Listen ! ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="4.2 The Storyteller ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="4.3 Intellectual Rubbish ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="4.4 My Financial Career ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="4.5 Tansen ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+				<chapter name="Language Study ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/903030024 (1).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="कुमारभारती मराठी" book_cover="/0_NEW_APP_DATA/class_9/images/901030024.jpg">
+				<chapter name=" १. वंद्य ‘वन्देमातरम्’ (गीत) ग. दि. माडगूळकर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name=" २. संतवाणी (अ) जैसा वृक्ष नेणे- संत नामदेव (आ) धरिला पंढरीचा चोर-संत जनाबाई ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name=" ३. कीर्ती कठीयाचा दृष्टान्त म्हाइंभट">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name=" ४. नात्यांची घट्ट वीण मीरा शिंदे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name=" ५. एक होती समई उत्तम कांबळे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="हास्यचित्रांतली मुलं (स्थूलवाचन) मधुकर धर्मापुरीकर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name=" ६. या झोपडीत माझ्या (कविता) राष्ट्रसंत श्री तुकडोजी महाराज">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name=" ७. दुपार राजीव बर्वे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name=" ८. अभियंत्यांचे दैवत-डॉ. विश्वेश्वरय्या डॉ. यशवंत पाटणे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name=" ९. मी वाचवतोय (कविता) सतीश काळसेकर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="१०. यंत्रांनी केलं बंड भालबा केळकर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="इंग्लंडचा हिवाळा (स्थूलवाचन) इरावती कर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="११. मातीची सावली स्टॅन्ली गोनसाल्विस">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="१२. महाराष्ट्रावरूनी टाक ओवाळून ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="काया (पोवाडा) - अण्णा भाऊ साठे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="१३. थोडं ‘आ’ भारनियमन करूया मंगला गोडबोले">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="१४. आदर्शवादी मुळगावकर गोविंद तळवलकर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="१५. निरोप (कविता) पद्‌मा गोळे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="‘बिग ५’च्या सहवासात (स्थूलवाचन) जयप्रकाश प्रधान">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="१६. वनवासी (कविता) - तुकाराम धांडे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="१७. ऑलिंपिक वर्तुळांचा गोफ बाळ ज. पंडित">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="१८. हसरे दु:ख भा. द. खेर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="१९. प्रीतम माधुरी शानभाग">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="२०. आपुले जगणे...आपुली ओळख!(कविता) संदीप खरे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="विश्वकोश (स्थूलवाचन) ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+				<chapter name="उपयोजित लेखन ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030024 (1).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="कुमारभारती हिंदी" book_cover="/0_NEW_APP_DATA/class_9/images/902030024.jpg">
+				<chapter name="1. चाँदनी रात">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="2. बिल्ली का बिलंगुड़ा">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="3. कबीर (पूरक पठन)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="4. किताबें">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="5. जूलिया">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="6. ऐ सखि! (पूरक पठन)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="7. डॉक्टर का अपहरण">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="8. वीरभूमि पर कुछ दिन ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="9. वरदान माँगूँगा नहीं ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="10. रात का चौकीदार (पूरक पठन)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="11. निर्माणों के पावन युग में">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="12. कह कविराय">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="13. जंगल (पूरक पठन)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="14. इनाम">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="15. सिंधु का जल">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="16. अतीत के पत्र">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="17. निसर्ग वैभव (पूरक पठन)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="18. शिष्टाचार">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="19. उड़ान">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="20. मेरे पिता जी (पूरक पठन)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="21. अपराजेय">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+				<chapter name="22. स्वतंत्रता गान">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030024 (1).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="अक्षरभारती मराठी" book_cover="/0_NEW_APP_DATA/class_9/images/901000616.jpg">
+				<chapter name="१. सर्वात्मका शिवसुंदरा (प्रार्थना) कुसुमाग्रज">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name="२. संतवाणी - (अ) भटेीलागी जीवा - संत तुकाराम (आ) सतं कृपा झाली -संत बहिणाबाई ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name="३. ‘बेटा, मी ऐकतो आहे!’ व. पु. काळे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name="४. जी. आय. पी. रेल्वे प्रबोधनकार ठाकरे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name=" काझीरंगा (स्थूलवाचन) वसंत अवसरे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name=" ५. व्यायामाचे महत्त्व (कविता) राष्ट्रसंत श्री तुकडोजी महाराज">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name="६. ऑलिंपिक वर्तुळांचा गोफ बाळ ज. पंडित">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name="७. दिव्याच्या शोधामागचे दिव्य डॉ. अनिल गोडबोले">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name="८. सखू आजी राजन गवस">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name=" हास्यचित्रांतली मुलं (स्थूलवाचन) मधुकर धर्मापुरीकर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name="९. उजाड उघडे माळरानही (कविता) ललिता गादगे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name="१०. कुलूप श्री. कृ. कोल्हटकर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name="११. आभाळातल्या पाऊलवाटा ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name="१२. पुन्हा एकदा (कविता) प्रतिमा इंगोले">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name=" व्हेनिस (स्थूलवाचन) रमेश मंत">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name="१३. तिफन (कविता) विठ्ठल वाघ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name="१४. ते जीवनदायी झाड भारत सासणे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name="१५. माझे शिक्षक व संस्कार शंकरराव खरात">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name="१६. शब्दांचा खेळ हेलन केलर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name=" विश्वकोश (स्थूलवाचन) ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+				<chapter name=" उपयोजित लेखन ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000616 (1).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="आंतरभारती मराठी" book_cover="/0_NEW_APP_DATA/class_9/images/901030030.jpg">
+				<chapter name="१. भारतमाता (गीत) शांता शेळके">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+				<chapter name="२. संतवाणी- (अ) बहु हा दयाळु- संत चोखामेळा (आ) अनाथांचा नाथ- संत निर्मळा ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+				<chapter name="३. पाळण्यातले पाय राजा मंगळवेढेकर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+				<chapter name="४. दादू वि. स. खांडेकर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+				<chapter name="५. अजिंठ्याची सहल पं. महादेवशास्त्री जोशी">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+				<chapter name="६. बिनभिंतीची शाळा (कविता) ग. दि. माडगूळकर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+				<chapter name="७. रंगलेला सामना लीलाधर हेगडे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+				<chapter name="८. दिवे होऊया (कविता) जयंतकुमार त्रिभुवन">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+				<chapter name="९. संत कबीर ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+				<chapter name="१०. जडण-घडण किशोरी अामोणकर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+				<chapter name="११. लेझीम (कविता) श्री. बा. रानडे">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+				<chapter name="१२. अबूखाँची बकरी डॉ. झाकीर हुसेन">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+				<chapter name="१३. शांतीगीत (कविता) हाशम पटेल">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+				<chapter name="१४. दिव्य जयंत नारळीकर">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+				<chapter name="उपयोजित लेखन ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901030030 (1).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="लॊकभारती हिंदी" book_cover="/0_NEW_APP_DATA/class_9/images/902030027.jpg">
+				<chapter name="१. चाँदनी रात खंडकाव्य मैथिलीशरण गुप्त ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" २. बिल्‍ली का बिलंुगड़ा हास्‍य कहानी राजेंद्र लाल हांडा ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" ३. कबीर (पूरक पठन) आलोचना हजारी प्रसाद द्‌विवेदी ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" 4. किताबें नई कविता गुलजार ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" 5. जूलिया एकांकी अंतोन चेखव ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" ६. ऐ सखि ! (पूरक पठन) मुकरियाँ अमीर खुसरो ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" ७. डाॅक्‍टर का अपहरण विज्ञान कथा डाॅ. हरिकृष्‍ण देवसरे ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" 8. वीरभूमि पर कुछ दिन यात्रा वर्णन रुक्‍मणी संगल ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" ९. वरदान माँगूँगा नहीं गीत शिवमंगल सिंह ‘सुमन’ ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name="१०. रात का चौकीदार (पूरक पठन) लघुकथा सुरेश कुशवाहा ‘तन्मय’ ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name="११. निर्माणों के पावन युग में कविता अटल बिहारी वाजपेयी ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name="१. कह कविराय कुंडलियाँ गिरिधर ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" २. जंगल (पूरक पठन) संवादात्‍मक कहानी चित्रा मुद्गल ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" ३. इनाम हास्‍य-व्यंग्‍य निबंध अरुण ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" 4. सिंधु का जल नई कविता अशोक चक्रधर ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" 5. अतीत के पत्र पत्र विनोबा भावे, गांधीजी ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" ६. निसर्गवैभव (पूरक पठन) कविता सुमित्रानंदन पंत ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" ७. शिष्‍टाचार चरित्रात्‍मक कहानी भीष्‍म साहनी ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" 8. उड़ान गजल चंद्रसेन विराट ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name=" ९. मेरे पिता जी (पूरक पठन) आत्‍मकथा डाॅ. हरिवंशराय बच्चन ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name="१०. अपराजेय वर्णनात्‍मक कहानी कमल कुमार ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name="११. स्‍वतंत्रता गान प्रयाण गीत गोपालसिंह नेपाली ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+				<chapter name="रचना विभाग एवं व्याकरण विभाग ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902030027 (1).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="लोकवाणी हिंदी" book_cover="/0_NEW_APP_DATA/class_9/images/902020271.jpg">
+				<chapter name=" १. नदी की पुकार गीत सुरेशचंद्र मिश्र ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name=" २. झुमका वर्णनात्‍मक कहानी सुशील सरित ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name=" ३. निज भाषा (पठनार्थ) दोहा भारतेंदु हरिश्चंद्र ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name=" 4. मान जा मेरे मन व्यंग्‍यात्‍मक निबंध रामेश्वर सिंह कश्यप ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name=" 5. किताबें कुछ कहना चाहती हैं नई कविता सफदर हाश्मी ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name="६. ‘इत्‍यादि’ की आत्‍मकहानी (पठनार्थ) वर्णनात्मक निबंध यशोदानंद अखौरी ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name="७. छोटा जादूगर संवादात्मक कहानी जयशंकर प्रसाद ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name="8. जिंदगी की बड़ी जरुरत है हार...! नवगीत प्रा. संतोष मडकी ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name=" १. गागर में सागर दोहा बिहारी ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name=" २. मैं बरतन माँजूँगा आत्मकथात्मक कहानी हमराज भट्ट ‘बालसखा’ ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name=" ३. ग्रामदेवता (पठनार्थ) कविता डॉ. रामकुमार वर्मा ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name=" 4. साहित्य की निष्कपट विधा है-डायरी वैचारिक निबंध कुबेर कुमावत ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name=" 5. उम्मीद गजल कमलेश भट्ट ‘कमल’ ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name=" ६. सागर और मेघ संवाद राय कृष्णदास ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name=" ७. लघुकथाएँ (पठनार्थ) लघुकथा ज्योति जैन ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name=" 8. झंडा ऊँचा सदा रहेगा प्रेरणा गीत रामदयाल पांडेय ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+				<chapter name=" रचना विभाग एवं व्याकरण विभाग ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/902020271 (1).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="संस्कृतम् आमोद:(संपूर्ण)" book_cover="/0_NEW_APP_DATA/class_9/images/901000604.jpg">
+				<chapter name="१. सुष्ठु गृहीत: चौरः । (गद्यम्) ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="२. अव्ययमाला। (पद्यम्)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="३. धन्यौ तौ दातृयाचकौ । (गद्यम्) ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="४. विध्यर्थमाला । (पद्यम्)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="५. किं मिथ्या ? किं वास्तवम् ? ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="६. वीरवनिता विश्पला। (गद्यम्) ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="७. योगमाला। (पद्यम्)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="८. पिन कोड प्रवर्तकः महान् संस्कृतज्ञः । (गद्यम्)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="लेखनकौशलम्-१। ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="लेखनकौशलम्-२">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="९. सूक्तिसुधा । (पद्यम्)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="१०. पितृभक्त: नचिकेताः। (गद्यम्)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="११. मानस: स्वच्छता। (गद्यम्) ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="१२. अमरकोषः। (संवादः)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="१३. सरमाया: शीलम् । (पद्यम्)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="१४. काव्यशास्त्रविनोदः ।(पद्यम्) ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="१५. मनोराज्यस्य फलम्। (गद्यम्)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="१६. स्वागतं तपोधनायाः। (संवादः) ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="लेखनकौशलम्-३।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="१. किं कृत्वा ? किं कर्तुम् ?">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="२. वर्णानां साहचर्यं। ३. किं करवाणि?">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="४. किं कुर्यात् ? किं भवेत् ? ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="५. क्रियापदं किं कथयति ?-१">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="६. कः कृतवान् ? का कृतवती ? .">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="७. उपपदविभक्तयः ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="८. सङ्ख्याविशेषणानि-१">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="९. सङ्ख्याविशेषणानि-२ ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="१०. क्रियापदं किं कथयति ?-२ ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="११. केन कृतम् ? ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="१२. विशेषणम्।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="१. संख्याः।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="२. चित्रपदकोषः। ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="३. समयः।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="१.अ) नामानि । आ) सर्वनामानि । इ) धातुसाधित-अव्ययानि । ई) लट् लकार।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="२. अ) विधिलिङ्लकारः। आ) समासाः ।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="३. अ) नामानि । आ) सर्वनामानि । इ) क्रियापदानि । (धातूनां द्वितीयः समूहः) ई) कर्मवाच्य क्रियापदम्। उ) विभक्ति तत्पुरुष समासः ।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+				<chapter name="४.अ) लृट्लकारः। आ) कर्मधारय समासः। इ) भूत.-धातु.-विशेषणानि ।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000604 (1).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="संस्कृतम् आनन्द:(संयुक्त)" book_cover="/0_NEW_APP_DATA/class_9/images/901000605.jpg">
+				<chapter name="१. सुष्ठु गृहीतः: चौरः। (गद्यम्) .">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="२.अव्ययमाला। (पद्यम्) ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="३. किं मिथ्या ? किं वास्तवम्?">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="४. विध्यर्थमाला।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="५. वीरवनिता विश्पला। (गद्यम्)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="६.पिन्कोड्प्रवर्तकः महान्">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="७. सूक्तिसुधा । (पद्यम्)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="८. मनसः स्वच्छता। (गद्यम्) ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="९. अमरकोषः । (संवादः)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="१०.काव्यशास्त्रविनोदः। (पद्यम्)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="११. मनोराज्यस्य फलम्। (गद्यम्)">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="१. किं कृत्वा ? किं कर्तुम् ? ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="२. वर्णानां साहचर्यं। ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="३. किं करवाणि? ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="४. किं कुर्यात् ? किं भवेत् ? ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="५. क्रियापदं किं कथयति ? ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="६. कः कृतवान् ? का कृतवती ?">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="७. उपपदविभक्तयः ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="८. सङ्ख्याविशेषणानि - १">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="९. संख्याविशेषणानि - २ ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="१०. क्रियापदं किं कथयति ?-२">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="११. केन कृतम् ?">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="१२. विशेषण विस्तार।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="१. संख्याः।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="२. चित्रपदकोषः। ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="३. समयः।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="१.अ) नामानि । आ) सर्वनामानि । इ) धातुसाधित-अव्ययानि। ई) लट् लकार।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="२. अ) विधिलिङ्लकारः। आ) समासाः ।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="३. अ) नामानि। आ) सर्वनामानि। इ) क्रियापदानि। (धातूनां द्वितीयः समूहः) ई) कर्मवाच्य क्रियापदम् । उ) विभक्ति तत्पुरुष समासः।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+				<chapter name="४.अ) लृट्लकारः। आ) कर्मधारय समासः। इ) भूत.-धातु.-विशेषणानि ।">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_9/languages/chapter_pdf/901000605 (1).pdf"/>
+				</chapter>
+			</subject>
+		</medium>
+		<medium name="اردو" sub_name="Urdu Medium">
+			<subject name="سائنس اور ٹکنالوجی حصہ 1" book_cover="/0_NEW_APP_DATA/class_9/images/904020456.jpg"> </subject>
+			<subject name="ریاضی کا حصہ 1" book_cover="/0_NEW_APP_DATA/class_9/images/904000608.jpg"> </subject>
+			<subject name="ریاضی کا حصہ 2" book_cover="/0_NEW_APP_DATA/class_9/images/904000609.jpg"> </subject>
+			<subject name="تاریخ اور سیاسیات" book_cover="/0_NEW_APP_DATA/class_9/images/904010491.jpg"> </subject>
+			<subject name="جغرافیہ" book_cover="/0_NEW_APP_DATA/class_9/images/904020011.jpg"> </subject>
+			<subject name="دفاعی علوم" book_cover="/0_NEW_APP_DATA/class_9/images/904000611.jpg"> </subject>
+			<subject name="کماربھارتی اردو" book_cover="/0_NEW_APP_DATA/class_9/images/904030024.jpg"> </subject>
+		</medium>
+	</class>
+	
+</root>
