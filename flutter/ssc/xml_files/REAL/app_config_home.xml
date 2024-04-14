@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <root>
-	<class name="Class X" xmlpath="/flutter/xml_files/REAL/app_config_class10.xml"/>
-	<class name="Class IX" xmlpath="/flutter/xml_files/REAL/app_config_class9.xml"/>
-	<class name="Class VIII" xmlpath="/flutter/xml_files/REAL/app_config_class8.xml"/>
-	<class name="Class VII" xmlpath="/flutter/xml_files/REAL/app_config_class7.xml"/> 
-	<class name="Class VI" xmlpath="/flutter/xml_files/REAL/app_config_class6.xml"/>
-	<class name="Class V" xmlpath="/flutter/xml_files/REAL/app_config_class5.xml"/> 
+	<class name="Class X" xmlpath="/flutter/ssc/xml_files/REAL/app_config_class10.xml"/>
+	<class name="Class IX" xmlpath="/flutter/ssc/xml_files/REAL/app_config_class9.xml"/>
+	<class name="Class VIII" xmlpath="/flutter/ssc/xml_files/REAL/app_config_class8.xml"/>
+	<class name="Class VII" xmlpath="/flutter/ssc/xml_files/REAL/app_config_class7.xml"/> 
+	<class name="Class VI" xmlpath="/flutter/ssc/xml_files/REAL/app_config_class6.xml"/>
+	<class name="Class V" xmlpath="/flutter/ssc/xml_files/REAL/app_config_class5.xml"/> 
 </root>
