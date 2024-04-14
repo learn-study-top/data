@@ -1,1 +1,316 @@
+<root>
+	
+	<class name="Class VI">
+		<medium name="English" sub_name="Medium">
+			<subject name="Mathematics" book_cover="/0_NEW_APP_DATA/class_6/images/603020004.jpg">
+				<chapter name="1. Basic Concepts in Geometry       ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (1).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 1.1" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_1 (1).pdf"/>
+						<solution name="Practice Set 1.2" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_1 (2).pdf"/>
+						<solution name="Practice Set 1.3" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_1 (3).pdf"/>
+						<solution name="Practice Set 1.4" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_1 (4).pdf"/>						
+						<solution name="Problem Set 1" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_1 (5).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="2. Angles">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (2).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 2.1" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_2 (1).pdf"/>
+						<solution name="Practice Set 2.2" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_2 (2).pdf"/>
+						<solution name="Practice Set 2.3" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_2 (3).pdf"/>
+						<solution name="Practice Set 2.4" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_2 (4).pdf"/>
+						<solution name="Practice Set 2.5" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_2 (5).pdf"/>
+						<solution name="Problem Set 2" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_2 (6).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="3. Integers ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (3).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 3.1" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_3 (1).pdf"/>
+						<solution name="Practice Set 3.2" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_3 (2).pdf"/>
+						<solution name="Practice Set 3.3" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_3 (3).pdf"/>
+						<solution name="Practice Set 3.4" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_3 (4).pdf"/>
+						<solution name="Practice Set 3.5" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_3 (5).pdf"/>
+						<solution name="Practice Set 3.6" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_3 (6).pdf"/>
+						<solution name="Problem Set 3" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_3 (7).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="4. Operations on Fractions">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (4).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 4.1" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_4 (1).pdf"/>
+						<solution name="Practice Set 4.2" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_4 (2).pdf"/>
+						<solution name="Practice Set 4.3" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_4 (3).pdf"/>
+						<solution name="Practice Set 4.4" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_4 (4).pdf"/>
+						<solution name="Practice Set 4.5" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_4 (5).pdf"/>
+						<solution name="Problem Set 4" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_4 (6).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="5. Decimal Fractions ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (5).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 5.1" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_5 (1).pdf"/>
+						<solution name="Practice Set 5.2" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_5 (2).pdf"/>
+						<solution name="Problem Set 5" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_5 (3).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="6. Bar Graphs">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (6).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 6.1" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_6 (1).pdf"/>
+						<solution name="Practice Set 6.2" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_6 (2).pdf"/>
+						<solution name="Problem Set 6" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_6 (3).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="7. Symmetry">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (7).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 7.1" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_7 (1).pdf"/>
+						<solution name="Practice Set 7.2" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_7 (2).pdf"/>
+						<solution name="Practice Set 7.3" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_7 (3).pdf"/>
+						<solution name="Practice Set 7.4" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_7 (4).pdf"/>
+						<solution name="Practice Set 7.5" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_7 (5).pdf"/>
+						<solution name="Problem Set 7" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_maths_chap_7 (6).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="8. Divisibility">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (8).pdf"/>
+				</chapter>
+				<chapter name="9. HCF-LCM">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (9).pdf"/>
+				</chapter>
+				<chapter name="10. Equations ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (10).pdf"/>
+				</chapter>
+				<chapter name="11. Ratio - Proportion">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (11).pdf"/>
+				</chapter>
+				<chapter name="12. Percentage ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (12).pdf"/>
+				</chapter>
+				<chapter name="13. Profit - Loss">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (12).pdf"/>
+				</chapter>
+				<chapter name="14. Banks and Simple Interest">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (14).pdf"/>
+				</chapter>
+				<chapter name="15. Triangles and their Properties">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (15).pdf"/>
+				</chapter>
+				<chapter name="16. Quadrilaterals">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (16).pdf"/>
+				</chapter>
+				<chapter name="17. Geometrical Constructions">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (17).pdf"/>
+				</chapter>
+				<chapter name="18. Three Dimensional Shapes">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (18).pdf"/>
+				</chapter>
+				<chapter name="Answers ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020004 (19).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="Science &amp; Technology" book_cover="/0_NEW_APP_DATA/class_6/images/603020012.jpg">
+				<chapter name="1. Natural Resources – Air, Water and Land">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (1).pdf"/>
+				</chapter>
+				<chapter name="2. The Living World">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (2).pdf"/>
+				</chapter>
+				<chapter name="3. Diversity in Living Things and their Classification">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (3).pdf"/>
+				</chapter>
+				<chapter name="4. Disaster Management">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (4).pdf"/>
+				</chapter>
+				<chapter name="5. Substances in the Surroundings–Their States and Properties">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (5).pdf"/>
+				</chapter>
+				<chapter name="6. Substances in Daily Use">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (6).pdf"/>
+				</chapter>
+				<chapter name="7. Nutrition and Diet">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (7).pdf"/>
+				</chapter>
+				<chapter name="8. Our Skeletal System and the Skin">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (8).pdf"/>
+				</chapter>
+				<chapter name="9. Motion and Types of Motion">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (9).pdf"/>
+				</chapter>
+				<chapter name="10. Force and Types of Force ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (10).pdf"/>
+				</chapter>
+				<chapter name="11. Work and Energy">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (11).pdf"/>
+				</chapter>
+				<chapter name="12. Simple Machines ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (12).pdf"/>
+				</chapter>
+				<chapter name="13. Sound ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (13).pdf"/>
+				</chapter>
+				<chapter name="14. Light and the Formation of Shadows">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (14).pdf"/>
+				</chapter>
+				<chapter name="15. Fun with Magnets">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (15).pdf"/>
+				</chapter>
+				<chapter name="16. The Universe ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020012 (16).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="History and Political Science" book_cover="/0_NEW_APP_DATA/class_6/images/603000584.jpg">
+				<chapter name="1. The Indian Subcontinent and History">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (1).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_1 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_1 (1).txt"/>
+				</chapter>
+				<chapter name="2. Sources of History">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (2).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_2 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_2 (1).txt"/>
+				</chapter>
+				<chapter name="3. The Harappan Civilization">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (3).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_3 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_3 (1).txt"/>
+				</chapter>
+				<chapter name="4. The Vedic Civilization">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (4).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_4 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_4 (1).txt"/>
+				</chapter>
+				<chapter name="5. Religious Trends in Ancient India">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (5).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_5 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_5 (1).txt"/>
+				</chapter>
+				<chapter name="6. Janapadas and Mahajanapadas">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (6).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_6 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_6 (1).txt"/>
+				</chapter>
+				<chapter name="7. India during the Maurya Period ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (7).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_7 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_7 (1).txt"/>
+				</chapter>
+				<chapter name="8. States after the Maurya Empire ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (8).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_8 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_8 (1).txt"/>
+				</chapter>
+				<chapter name="9. Ancient Kingdoms of the South">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (9).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_9 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_9 (1).txt"/>
+				</chapter>
+				<chapter name="10. Ancient India : Cultural">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (10).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_10 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_10 (1).txt"/>
+				</chapter>
+				<chapter name="11. Ancient India and the World ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (11).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_11 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_11 (1).txt"/>
+				</chapter>
+				<chapter name="1. Our Life in Society">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (12).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_12 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_12 (1).txt"/>
+				</chapter>
+				<chapter name="2.  Diversity in Society ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (13).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_13 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_13 (1).txt"/>
+				</chapter>
+				<chapter name="3. Rural Local Government Bodies">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (14).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_14 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_14 (1).txt"/>
+				</chapter>
+				<chapter name="4. Urban Local Government Bodies">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (15).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_15 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_15 (1).txt"/>
+				</chapter>
+				<chapter name="5. District Administration">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603000584 (16).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Exercise" value="/0_NEW_APP_DATA/class_6/eng/solutions/6_eng_history_chap_16 (1).pdf"/>
+					</solutions>
+					<read_aloud_que_ans name="Listen Q &amp; A" value="/0_NEW_APP_DATA/class_5/eng/read_aloud_que_ans/6_eng_history_RAL_chap_16 (1).txt"/>
+				</chapter>
+			</subject>
+			<subject name="Geography" book_cover="/0_NEW_APP_DATA/class_6/images/603020011.jpg">
+				<chapter name="1. The Earth and the Graticule ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020011 (1).pdf"/>
+				</chapter>
+				<chapter name="2. Let us Use the Graticule">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020011 (2).pdf"/>
+				</chapter>
+				<chapter name="3. Comparing a Globe and a Map Field Visits ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020011 (3).pdf"/>
+				</chapter>
+				<chapter name="4. Weather and Climate">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020011 (4).pdf"/>
+				</chapter>
+				<chapter name="5. Temperature">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020011 (5).pdf"/>
+				</chapter>
+				<chapter name="6. Importance of Oceans">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020011 (6).pdf"/>
+				</chapter>
+				<chapter name="7. Rocks and Rock Types">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020011 (7).pdf"/>
+				</chapter>
+				<chapter name="8. Natural Resources">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020011 (8).pdf"/>
+				</chapter>
+				<chapter name="9. Energy Resources">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020011 (9).pdf"/>
+				</chapter>
+				<chapter name="10. Human Occupations">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020011 (10).pdf"/>
+				</chapter>
+				<chapter name="Glossary">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_6/eng/chapter_pdf/603020011 (11).pdf"/>
+				</chapter>
+			</subject>
+		</medium>
+	</class>
 
+</root>
