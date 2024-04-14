@@ -1,1 +1,255 @@
+<root>
 
+	<class name="Class VII">
+		<medium name="English" sub_name="Medium">
+			<subject name="Mathematics- I " book_cover="/0_NEW_APP_DATA/class_7/images/703020004.jpg">
+				<chapter name="1. Geometrical Constructions">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (1).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 1.1" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_1 (1).pdf"/>
+						<solution name="Practice Set 1.2" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_1 (2).pdf"/>
+						<solution name="Practice Set 1.3" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_1 (3).pdf"/>
+						<solution name="Practice Set 1.4" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_1 (4).pdf"/>						
+						<solution name="Problem Set 1" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_1 (5).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="2. Multiplication and Division of Integers ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (2).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 2.1" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_2 (1).pdf"/>
+						<solution name="Practice Set 2.2" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_2 (2).pdf"/>
+						<solution name="Practice Set 2.3" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_2 (3).pdf"/>
+						<solution name="Practice Set 2.4" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_2 (4).pdf"/>
+						<solution name="Practice Set 2.5" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_2 (5).pdf"/>
+						<solution name="Problem Set 2" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_2 (6).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="3. HCF and LCM">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (3).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 3.1" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_3 (1).pdf"/>
+						<solution name="Practice Set 3.2" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_3 (2).pdf"/>
+						<solution name="Practice Set 3.3" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_3 (3).pdf"/>
+						<solution name="Practice Set 3.4" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_3 (4).pdf"/>
+						<solution name="Practice Set 3.5" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_3 (5).pdf"/>
+						<solution name="Practice Set 3.6" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_3 (6).pdf"/>
+						<solution name="Problem Set 3" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_3 (7).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="4. Angles and Pairs of Angles ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (4).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 4.1" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_4 (1).pdf"/>
+						<solution name="Practice Set 4.2" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_4 (2).pdf"/>
+						<solution name="Practice Set 4.3" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_4 (3).pdf"/>
+						<solution name="Practice Set 4.4" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_4 (4).pdf"/>
+						<solution name="Practice Set 4.5" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_4 (5).pdf"/>
+						<solution name="Problem Set 4" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_4 (6).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="5. Operations on Rational Numbers">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (5).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 5.1" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_5 (1).pdf"/>
+						<solution name="Practice Set 5.2" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_5 (2).pdf"/>
+						<solution name="Problem Set 5" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_5 (3).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="6. Indices">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (6).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 6.1" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_6 (1).pdf"/>
+						<solution name="Practice Set 6.2" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_6 (2).pdf"/>
+						<solution name="Problem Set 6" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_6 (3).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="7. Joint Bar Graph ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (7).pdf"/>
+					<solutions name="Exercise solutions">
+						<solution name="Practice Set 7.1" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_7 (1).pdf"/>
+						<solution name="Practice Set 7.2" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_7 (2).pdf"/>
+						<solution name="Practice Set 7.3" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_7 (3).pdf"/>
+						<solution name="Practice Set 7.4" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_7 (4).pdf"/>
+						<solution name="Practice Set 7.5" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_7 (5).pdf"/>
+						<solution name="Problem Set 7" value="/0_NEW_APP_DATA/class_7/eng/solutions/7_eng_maths_chap_7 (6).pdf"/>
+					</solutions>
+				</chapter>
+				<chapter name="8. Algebraic Expressions and Operations on them ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (8).pdf"/>
+				</chapter>
+				<chapter name="Miscellaneous Problems : Set 1">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (16).pdf"/>
+				</chapter>
+				<chapter name="9. Direct Proportion and Inverse Proportion">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (9).pdf"/>
+				</chapter>
+				<chapter name="10. Banks and Simple Interest">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (10).pdf"/>
+				</chapter>
+				<chapter name="11. Circle">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (11).pdf"/>
+				</chapter>
+				<chapter name="12. Perimeter and Area">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (12).pdf"/>
+				</chapter>
+				<chapter name="13. Pythagoras' Theorem">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (12).pdf"/>
+				</chapter>
+				<chapter name="14. Algebraic Formulae - Expansion of Squares">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (14).pdf"/>
+				</chapter>
+				<chapter name="15. Statistics">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (15).pdf"/>
+				</chapter>
+				<chapter name="Miscellaneous Problems : Set 2">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (17).pdf"/>
+				</chapter>
+				<chapter name="ANSWERS">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020004 (18).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="Science &amp; Technology" book_cover="/0_NEW_APP_DATA/class_7/images/703020012.jpg">
+				<chapter name="1. The Living World : Adaptations and Classification">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (1).pdf"/>
+				</chapter>
+				<chapter name="2. Plants : Structure and Function">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (2).pdf"/>
+				</chapter>
+				<chapter name="3. Properties of Natural Resources ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (3).pdf"/>
+				</chapter>
+				<chapter name="4. Nutrition in Living Organisms">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (4).pdf"/>
+				</chapter>
+				<chapter name="5. Food Safety ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (5).pdf"/>
+				</chapter>
+				<chapter name="6. Measurement of Physical Quantities">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (6).pdf"/>
+				</chapter>
+				<chapter name="7. Motion, Force and Work">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (7).pdf"/>
+				</chapter>
+				<chapter name="8. Static Electricity">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (8).pdf"/>
+				</chapter>
+				<chapter name="9. Heat">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (9).pdf"/>
+				</chapter>
+				<chapter name="10. Disaster Management ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (10).pdf"/>
+				</chapter>
+				<chapter name="11. Cell Structure and Micro-organisms ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (11).pdf"/>
+				</chapter>
+				<chapter name="12. The Muscular System and Digestive System in Human Beings">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (12).pdf"/>
+				</chapter>
+				<chapter name="13. Changes – Physical and Chemical">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (13).pdf"/>
+				</chapter>
+				<chapter name="14. Elements, Compounds and Mixtures">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (14).pdf"/>
+				</chapter>
+				<chapter name="15. Materials we Use ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (15).pdf"/>
+				</chapter>
+				<chapter name="16. Natural Resources">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (16).pdf"/>
+				</chapter>
+				<chapter name="17. Effects of Light">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (17).pdf"/>
+				</chapter>
+				<chapter name="18. Sound : Production of Sound ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (18).pdf"/>
+				</chapter>
+				<chapter name="19. Properties of a Magnetic Field">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (19).pdf"/>
+				</chapter>
+				<chapter name="20. In the World of Stars">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020012 (20).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="History and Political Science" book_cover="/0_NEW_APP_DATA/class_7/images/703000584.jpg">
+				<chapter name="1 Sources of History">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703000584 (1).pdf"/>
+				</chapter>
+				<chapter name="2. India before the Times of Shivaji Maharaj">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703000584 (2).pdf"/>
+				</chapter>
+				<chapter name="3. Religious Synthesis">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703000584 (3).pdf"/>
+				</chapter>
+				<chapter name="4. Maharashtra before the Times of Shivaji Maharaj">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703000584 (4).pdf"/>
+				</chapter>
+				<chapter name="5. The Foundation of the Swaraj">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703000584 (5).pdf"/>
+				</chapter>
+				<chapter name="6. Conflict with the Mughals ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703000584 (6).pdf"/>
+				</chapter>
+				<chapter name="7. The Administration of the Swaraj ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703000584 (7).pdf"/>
+				</chapter>
+				<chapter name="8. An Ideal Ruler">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703000584 (8).pdf"/>
+				</chapter>
+				<chapter name="9. The Maratha War of Independence">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703000584 (9).pdf"/>
+				</chapter>
+				<chapter name="10. The Expansion of the Maratha Power ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703000584 (10).pdf"/>
+				</chapter>
+				<chapter name="11. Marathas - The Protectors of the Nation">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703000584 (11).pdf"/>
+				</chapter>
+				<chapter name="12. Progression of the Empire">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703000584 (12).pdf"/>
+				</chapter>
+				<chapter name="13. Life of the People in Maharashtra ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703000584 (13).pdf"/>
+				</chapter>
+			</subject>
+			<subject name="Geography" book_cover="/0_NEW_APP_DATA/class_7/images/703020011.jpg">
+				<chapter name=" 1. How Seasons Occur - Part 1 General Geography ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020011 (1).pdf"/>
+				</chapter>
+				<chapter name=" 2. The Sun, the Moon and the Earth General Geography ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020011 (2).pdf"/>
+				</chapter>
+				<chapter name=" 3. Tides Physical Geography">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020011 (3).pdf"/>
+				</chapter>
+				<chapter name=" 4. Air Pressure Physical Geography">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020011 (4).pdf"/>
+				</chapter>
+				<chapter name=" 5. Winds Physical Geography">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020011 (5).pdf"/>
+				</chapter>
+				<chapter name=" 6. Natural Regions Physical Geography">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020011 (6).pdf"/>
+				</chapter>
+				<chapter name=" 7. Soils Physical Geography ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020011 (7).pdf"/>
+				</chapter>
+				<chapter name=" 8. How Seasons Occur - Part 2 General Geography ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020011 (8).pdf"/>
+				</chapter>
+				<chapter name=" 9. Agriculture Human Geography ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020011 (9).pdf"/>
+				</chapter>
+				<chapter name="10. Human Settlements Human Geography ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020011 (10).pdf"/>
+				</chapter>
+				<chapter name="11. Contour Maps and Landforms Practical Geography ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020011 (11).pdf"/>
+				</chapter>
+				<chapter name="Glossary ">
+					<chapter_pdf name="Chapter PDF" value="/0_NEW_APP_DATA/class_7/eng/chapter_pdf/703020011 (12).pdf"/>
+				</chapter>
+			</subject>
+		</medium>
+	</class>
+
+</root>
