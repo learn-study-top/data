@@ -1152,6 +1152,33 @@
 					</pyq>
 				</chapter>
 			</subject>
+			<subject name="Computer Science" book_cover="/0_NEW_APP_DATA/class_12/images/12_computer.png">
+				<weightage name="* WEIGHTAGE &amp; PAPER PATTERN">
+					<paper_pattern_pdf name="Weightage &amp; Paper Pattern Pdf" value="/0_NEW_APP_DATA/class_12/weightage_paper_pattern/computer_sci_class_12_weightage.pdf"/>
+				</weightage>					
+				<question_papers name="* QUESTION PAPERS">
+					<previous_year_que_papers name="Previous Year Question Papers">	
+						<paper_pdf name="March 2024 Question Paper 2" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-2-march-2024.pdf"/>
+						<paper_pdf name="March 2024 Question Paper 1" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-1-march-2024.pdf"/>
+						<paper_pdf name="March 2023 Question Paper 2" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-2-march-2023.pdf"/>
+						<paper_pdf name="March 2023 Question Paper 1" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-1-march-2023.pdf"/>
+						<paper_pdf name="March 2022 Question Paper 2" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-2-march-2022.pdf"/>
+						<paper_pdf name="March 2022 Question Paper 1" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-1-march-2022.pdf"/>
+						<paper_pdf name="March 2020 Question Paper 2" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-2-march-2020.pdf"/>
+						<paper_pdf name="March 2020 Question Paper 1" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-1-march-2020.pdf"/>
+						<paper_pdf name="March 2019 Question Paper 2" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-2-march-2019.pdf"/>
+						<paper_pdf name="March 2019 Question Paper 1" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-1-march-2019.pdf"/>
+						<paper_pdf name="March 2018 Question Paper 2" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-2-march-2018.pdf"/>
+						<paper_pdf name="March 2018 Question Paper 1" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-1-march-2018.pdf"/>
+						<paper_pdf name="March 2017 Question Paper 2" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-2-march-2017.pdf"/>
+						<paper_pdf name="March 2017 Question Paper 1" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-1-march-2017.pdf"/>
+						<paper_pdf name="March 2016 Question Paper 2" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-2-march-2016.pdf"/>
+						<paper_pdf name="March 2016 Question Paper 1" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-1-march-2016.pdf"/>
+						<paper_pdf name="March 2015 Question Paper 2" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-2-march-2015.pdf"/>
+						<paper_pdf name="March 2015 Question Paper 1" value="/0_NEW_APP_DATA/class_12/question_papers/hsc-computer-science-question-paper-1-march-2015.pdf"/>					
+					</previous_year_que_papers>
+				</question_papers>
+			</subject>			
 			<subject name="Book Keeping &amp; Accountancy" book_cover="/0_NEW_APP_DATA/class_12/images/1203020425.jpg">
 				<weightage name="* WEIGHTAGE &amp; PAPER PATTERN">
 					<paper_pattern_pdf name="Weightage &amp; Paper Pattern Pdf" value="/0_NEW_APP_DATA/class_12/weightage_paper_pattern/Bkaccountancy50.pdf"/>
