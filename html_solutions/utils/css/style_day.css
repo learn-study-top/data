@@ -1,0 +1,20 @@
+body {
+  --text-color: rgb(20, 29, 53);
+  --tx-clr2: gray;
+  --bg-color: rgb(245, 245, 245);
+  --surface-color: #ffffff;
+  --border-col: rgba(0, 0, 0, 0.1);
+
+  --transp-col : rgba(255,255,255,0.3);
+  --inv-trp: rgba(0, 0, 0, 0.2);
+
+  --t1: rgb(209, 223, 255);
+  --t11: rgb(67, 127, 255);
+  --t2: #ffd8dc;
+  --t22: #ff7383;
+  
+  --faint-shadow: rgba(0, 0, 0, 0.15);
+
+  margin: 0;
+  background-color: var(--bg-color);
+}

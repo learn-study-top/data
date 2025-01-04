@@ -1,0 +1,715 @@
+@font-face {
+  font-family: OpenSans;
+  src: url("../fonts/OpenSans/OpenSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: Mukta;
+  src: url("../fonts/Mukta/Mukta-Regular.ttf");
+}
+
+@font-face {
+  font-family: Material;
+  src: url("../fonts/MaterialIconsRound-Regular.otf");
+}
+
+html {
+  font-family: OpenSans, Mukta, sans-serif;
+  margin: 0;
+  font-size: 16px;
+}
+
+root {
+  /* font-family: OpenSans, sans-serif; */
+}
+
+* {
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+  -webkit-focus-ring-color: rgba(0, 0, 0, 0);
+  /* -webkit-touch-callout: none; */
+  /* -webkit-user-select: none; */
+  /* -khtml-user-select: none; */
+  /* -moz-user-select: none;
+  -ms-user-select: none; */
+  /* user-select: none; */
+}
+
+body {
+  /**Update the Style.day.css and Style.night.css**/
+  --text-color: rgb(33, 33, 33);
+  --text-color-2: rgb(70, 70, 70);
+  --tx-clr2: gray;
+  --bg-color: rgb(245, 245, 245);
+  --surface-color: #ffffff;
+  --border-col: rgba(0, 0, 0, 0.1);
+  --transp-col: rgba(255, 255, 255, 0.3);
+  --inv-trp: rgba(0, 0, 0, 0.2);
+  --t1: rgb(209, 223, 255);
+  --t11: rgb(67, 127, 255);
+  --t2: #ffd8dc;
+  --t22: #ff7383;
+  --faint-shadow: rgba(0, 0, 0, 0.15);
+  margin: 0;
+  /*For old version which don't support var(--)*/
+  background-color: rgb(240, 240, 240);
+  background-color: var(--bg-color);
+  padding-bottom: 5rem;
+  padding-top: 40px;
+
+  max-width: 680px;
+  margin: auto;
+  
+--title-bg-color: #333333; /* Dark gray background for good contrast */
+  --title-font-color: orange; /* Orange text color */
+  
+   --subtitle-bg-color: #555555; /* Slightly lighter dark background for subtitle */
+      --subtitle-font-color: orange; /* Orange font color for subtitle */
+
+}
+
+
+
+/*
+ 
+   _     ___ _   _ _  __
+  | |   |_ _| \ | | |/ /
+  | |    | ||  \| | ' / 
+  | |___ | || |\  | . \ 
+  |_____|___|_| \_|_|\_\
+                        
+ 
+*/
+
+a {
+  color: var(--t11);
+}
+
+a:visited {
+  color: var(--t22);
+}
+
+/*TODO: Check and Remove*/
+
+a::after {
+  /* content: " 🡕"; */
+  color: var(--border-col);
+  text-decoration: none;
+}
+
+.link a::after {
+  content: ""
+}
+
+.link {
+  margin: 5px 20px 20px 20px;
+  padding: 0.8em 20px;
+  display: block;
+  background: var(--surface-color);
+  border-radius: 0.5em;
+}
+
+.link::after {
+  float: right;
+  font-family: Material;
+  content: "touch_app";
+  color: var(--tx-clr2);
+  margin-left: 0.5em;
+  /* width: 150px; */
+  font-size: 150%;
+}
+
+/*
+ 
+   _   _ _____    _    ____  _____ ____  ____     ___      ___ _____ _   _ _____ ____  ____  
+  | | | | ____|  / \  |  _ \| ____|  _ \/ ___|   ( _ )    / _ \_   _| | | | ____|  _ \/ ___| 
+  | |_| |  _|   / _ \ | | | |  _| | |_) \___ \   / _ \/\ | | | || | | |_| |  _| | |_) \___ \ 
+  |  _  | |___ / ___ \| |_| | |___|  _ < ___) | | (_>  < | |_| || | |  _  | |___|  _ < ___) |
+  |_| |_|_____/_/   \_\____/|_____|_| \_\____/   \___/\/  \___/ |_| |_| |_|_____|_| \_\____/ 
+                                                                                             
+ 
+*/
+
+h1 {
+  font-size: 2rem;
+  padding: 0 20px;
+  margin-top: 20px;
+  margin-bottom: 1rem;
+  color: var(--text-color);
+  line-height: 3.2rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+  padding: 0px 20px;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  color: var(--text-color);
+  line-height: 2.4rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  padding: 0px 20px;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  color: var(--text-color);
+  line-height: 1.8rem;
+}
+
+h4 {
+  font-size: 1rem;
+  padding: 0px 20px;
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+  font-weight: 600;
+  color: var(--text-color);
+  line-height: 1.5rem;
+}
+
+p {
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding: 0px 20px;
+  color: var(--text-color);
+  line-height: 1.8rem;
+  text-align: justify;
+}
+
+li {
+  /*    line-height: 1.2rem;*/
+}
+
+ul, ol {
+  margin: 2px 0px 1em 10px;
+  padding: 0 20px 0 20px;
+  font-size: 1em;
+  color: var(--text-color);
+  line-height: 1.6rem;
+  
+}
+
+ol li::marker {
+    font-weight: bold; /* Makes only the number (marker) bold */
+}
+
+ul p, ol p {
+  display: list-item;
+  padding: 0;
+  margin: 0.25em 0 1em;
+  list-style-type: "➔ ";
+}
+
+/*
+ 
+    ____    _    _     _     _____ ______   __
+   / ___|  / \  | |   | |   | ____|  _ \ \ / /
+  | |  _  / _ \ | |   | |   |  _| | |_) \ V / 
+  | |_| |/ ___ \| |___| |___| |___|  _ < | |  
+   \____/_/   \_\_____|_____|_____|_| \_\|_|  
+                                              
+ 
+*/
+
+img {
+  display: block;
+  margin: auto;
+  width: 100%;
+}
+
+pre {
+  overflow: auto;
+}
+
+.gallery {
+  margin: 8px auto;
+  border: 1px solid var(--border-col);
+  border-radius: 10px;
+  overflow: hidden;
+  /* padding: 0; NEXXT */
+  /*    width: calc(100vw - 50px);*/
+  box-shadow: 0 0 10px -2px #ddd;
+  box-shadow: 0 0 10px -5px #ddd inset;
+  /* align-content: center;
+  vertical-align: middle; */
+  text-align: center;
+}
+
+.desc {
+  padding: 15px 20px;
+  text-align: center;
+  color: var(--tx-clr2);
+}
+
+/*
+ 
+   _____  _    ____  _     _____ 
+  |_   _|/ \  | __ )| |   | ____|
+    | | / _ \ |  _ \| |   |  _|  
+    | |/ ___ \| |_) | |___| |___ 
+    |_/_/   \_\____/|_____|_____|
+                                 
+ 
+*/
+
+.table-container {
+  border-radius: 10px;
+  /**TEST*/
+  /* padding: 50px 20px; */
+  border: 1px dotted var(--border-col);
+  padding: 0;
+  margin: 5px auto 2px;
+  overflow-x: auto;
+  /* background-image: 
+    linear-gradient(to right, var(--bg-color), rgba(255, 255, 255, 0)),
+    linear-gradient(to left, var(--bg-color), rgba(255, 255, 255, 0)),
+    linear-gradient(to right, var(--faint-shadow), rgba(255, 255, 255, 0)),
+    linear-gradient(to left, var(--faint-shadow), rgba(255, 255, 255, 0));
+    background-position: left center, right center, left center, right center;
+    background-repeat: no-repeat;
+    background-color: var(--bg-color);
+    background-size: 150px 100%, 150px 100%, 30px 100%, 30px 100%;
+    background-attachment: local, local, scroll, scroll; */
+}
+
+table {
+  display: block;
+  align-content: center;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+}
+
+td+td, th+th {
+  border-left: 1px dotted var(--border-col);
+}
+
+
+
+tr+tr {
+  border-top: 1px dotted var(--border-col);
+}
+
+/*
+  table tr td{border-top:1px solid #ffffff;border-left:1px solid #ffffff;}
+
+  table tr td:first-child{border-left:0;}
+
+  table tr:first-child td{border-top:0;}
+*/
+
+
+
+
+th {
+	  color: var(--text-color);
+  font-size: 1em;
+  line-height: 1.4em;
+  padding: 1em 5px;
+  word-wrap: break-word;
+  max-width: 70vw;
+  border-bottom: 2px solid var(--border-col);
+  /* border: 1px; */
+}
+
+td {
+  color: var(--text-color);
+  padding: 0.8em 8px;
+  font-size: 0.9em;
+  line-height: 1.4em;
+  word-wrap: break-word;
+  max-width: 70vw;
+}
+
+thead {
+  /* border-bottom: 2px solid var(--border-col); */
+  
+}
+
+
+
+
+
+td:first-of-type {
+  padding-left: 2.5vw;
+}
+
+td:last-of-type {
+  padding-right: 2.5vw;
+}
+
+table p {
+  margin: auto;
+}
+
+/**Table Container Scrollbar*/
+
+.table-container::-webkit-scrollbar {
+  -webkit-appearance: none;
+}
+
+.table-container::-webkit-scrollbar:vertical {
+  width: 12px;
+}
+
+.table-container::-webkit-scrollbar:horizontal {
+  height: 12px;
+}
+
+.table-container::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  border: 2px solid var(--transp-col);
+  /* should match background, can't be transparent */
+  background-color: var(--inv-trp);
+}
+
+/*
+ 
+    ____ _   _ ____ _____ ___  __  __ 
+   / ___| | | / ___|_   _/ _ \|  \/  |
+  | |   | | | \___ \ | || | | | |\/| |
+  | |___| |_| |___) || || |_| | |  | |
+   \____|\___/|____/ |_| \___/|_|  |_|
+                                      
+ 
+*/
+
+#title {
+  padding: 20px;
+  /*    margin-top: 200px;*/
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: bold;
+  line-height: 4.5rem;
+  color: var(--text-color);
+    /* color: var(--highlight-primary); */
+   /*text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);  Add shadow */
+   
+   color: var(--title-font-color); /* Dynamic font color */
+  background-color: var(--title-bg-color); /* Dynamic background color */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  
+}
+
+.subtitle {
+  font-size: 1.6rem;
+  font-weight: 100;
+  font-stretch: wider;
+  text-align: center;
+  margin: 10px 0;
+  padding-bottom: 15px;
+  color: var(--subtitle-font-color); /* Orange text color for subtitle */
+    
+      text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); /* Subtle shadow for subtitle */
+}
+
+#summary {
+  padding: 20px;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 2rem;
+  color: var(--tx-clr2);
+  background-color: var(--surface-color);
+  font-style: italic;
+  margin-bottom: 2rem;
+}
+
+.grid {
+  margin: 0.5rem;
+  display: grid;
+  /* grid-auto-flow: dense; */
+  /* grid-auto-columns: 10px; */
+  /* grid-template-columns: 1fr 1fr 1fr; */
+  grid-template-columns: repeat(auto-fit, minmax(6rem, 1fr));
+  /* grid-auto-flow: column; */
+  row-gap: 0rem;
+  /* grid-auto-columns: min-content; */
+}
+
+.grid p, .grid div {
+  text-align: left;
+  line-height: 1.4em;
+  background-color: var(--surface-color);
+  margin: 0.2rem;
+  padding: 0.5rem 0.8rem;
+  border-radius: 10px;
+}
+
+/*
+ 
+   _  __    _  _____ _______  __
+  | |/ /   / \|_   _| ____\ \/ /
+  | ' /   / _ \ | | |  _|  \  / 
+  | . \  / ___ \| | | |___ /  \ 
+  |_|\_\/_/   \_\_| |_____/_/\_\
+                                
+ 
+*/
+
+.katex {
+  font-size: 1em;
+}
+
+.katex-display {
+  overflow: auto;
+  padding: 0.8em;
+}
+
+@media (prefers-color-scheme: dark) {}
+
+.hide {}
+
+.hide:hover {}
+
+/*
+ 
+    ____    _    ____ _____ ___ ___  _   _      _    _   _ ____    _   _  ___ _____ _____ ____  
+   / ___|  / \  |  _ \_   _|_ _/ _ \| \ | |    / \  | \ | |  _ \  | \ | |/ _ \_   _| ____/ ___| 
+  | |     / _ \ | |_) || |  | | | | |  \| |   / _ \ |  \| | | | | |  \| | | | || | |  _| \___ \ 
+  | |___ / ___ \|  __/ | |  | | |_| | |\  |  / ___ \| |\  | |_| | | |\  | |_| || | | |___ ___) |
+   \____/_/   \_\_|    |_| |___\___/|_| \_| /_/   \_\_| \_|____/  |_| \_|\___/ |_| |_____|____/ 
+                                                                                                
+ 
+*/
+
+.caption {
+  font-size: 0.9em;
+  color: var(--tx-clr2);
+  padding: 10px 5px 15px;
+}
+
+.note::before {
+  float: left;
+  font-family: Material;
+  content: "star";
+  color: rgb(162, 0, 0);
+  margin-left: -1.5em;
+  /* width: 150px; */
+  font-size: 150%;
+}
+
+.note {
+  font-size: 1rem;
+  padding: 1em 1em 1em 3em;
+  color: rgb(153, 39, 39);
+  background-color: rgb(255, 234, 235);
+  border-radius: 8px;
+  /* margin: 0 10px; */
+}
+
+u {
+  padding: 0px;
+}
+
+p {
+  color: var(--text-color-2);
+}
+
+div {
+  color: var(--text-color);
+}
+
+.wrong {
+  text-decoration-line: line-through;
+  text-decoration-style: solid !important;
+  /* text-decoration-thickness: 0.1em; */
+}
+
+/*
+ 
+    ____ ___  __  __ ____   _  _____ ___ ____ ___ _     ___ _______   __
+   / ___/ _ \|  \/  |  _ \ / \|_   _|_ _| __ )_ _| |   |_ _|_   _\ \ / /
+  | |  | | | | |\/| | |_) / _ \ | |  | ||  _ \| || |    | |  | |  \ V / 
+  | |__| |_| | |  | |  __/ ___ \| |  | || |_) | || |___ | |  | |   | |  
+   \____\___/|_|  |_|_| /_/   \_\_| |___|____/___|_____|___| |_|   |_|  
+                                                                        
+ 
+*/
+
+.compat-error {
+  color: white;
+  background: rgb(182, 31, 31);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 1rem;
+  text-align: right;
+}
+
+.compat-error * {
+  color: white;
+}
+
+.compat-error p {
+  margin: 0px;
+}
+
+.compat-error a {
+  /* float: right; */
+  background-color: white;
+  color: rgb(182, 31, 31);
+  padding: 5px 20px;
+  border-radius: 10px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  /* display: block; */
+  font-size: 16px;
+  margin: auto 20px 20px auto;
+}
+
+/*
+ 
+   _____ ___ ____  ____       _    _   _ ____    ____  ____  _____ ____ ___    _    _     ____  
+  |_   _|_ _|  _ \/ ___|     / \  | \ | |  _ \  / ___||  _ \| ____/ ___|_ _|  / \  | |   / ___| 
+    | |  | || |_) \___ \    / _ \ |  \| | | | | \___ \| |_) |  _|| |    | |  / _ \ | |   \___ \ 
+    | |  | ||  __/ ___) |  / ___ \| |\  | |_| |  ___) |  __/| |__| |___ | | / ___ \| |___ ___) |
+    |_| |___|_|   |____/  /_/   \_\_| \_|____/  |____/|_|   |_____\____|___/_/   \_\_____|____/ 
+                                                                                                
+ 
+*/
+
+.tip {
+  font-size: 0.95em;
+  background-color: var(--surface-color);
+  padding: 0.2em 0.5em;
+  border-radius: 0.5em;
+  color: var(--text-color-2);
+  opacity: 0.85;
+}
+
+.formula {
+  background: var(--surface-color);
+  padding: 10px 0px;
+  margin: 16px 20px;
+  border-radius: 16px;
+}
+
+Q-1 .grid, Q-2 .grid {
+  padding: 0;
+  grid-template-columns: 1fr 1fr;
+}
+
+Q-1 .grid li, Q-2 .grid li {
+  list-style-type: none;
+  display: inline-block;
+  list-style-position: initial;
+}
+
+img {
+  border-radius: 8px;
+  background: var(--surface-color);
+}
+
+#modal {
+  display: none;
+  /* Hidden by default */
+  position: fixed;
+  /* Stay in place */
+  z-index: 1;
+  /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0, 0, 0);
+  /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4);
+  /* Black w/ opacity */
+}
+
+#modal-close {
+  font-family: Material;
+  font-size: 36px;
+  font-weight: bolder;
+  color: rgb(243, 57, 57);
+  /* float: right; */
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  padding: 14px;
+  z-index: 100;
+  /* margin: 25px; */
+}
+
+#modal p, #modal h1 {
+  color: white
+}
+
+.zoom-wrapper {
+  /* (WV in Jet Compose) 'vh' unit not working properly */
+  height: 80%;
+  margin: 10% 0;
+}
+
+#log {
+  pointer-events: none;
+  user-select: none;
+  /* Standard syntax */
+  position: fixed;
+  /* Stay in place */
+  z-index: 1;
+  /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#log * {
+  user-select: none;
+  /* Standard syntax */
+  color: red;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.big {
+  font-size: 1.2em;
+  /* font-weight: bold; */
+}
+
+aside {
+  background: var(--bg-color);
+  text-align: start;
+  margin: 1em 12px;
+  padding: 1em 0;
+  border-radius: 8px;
+}
+
+aside p {
+  font-size: 0.95em;
+  line-height: 1.6em;
+}
+
+hr {
+  margin: 18px;
+  /* background-color: red; */
+  border-color: var(--border-col);
+}
+
+.surface {
+  border-radius: 25px;
+  background: var(--surface-color);
+}
+
+.margin {
+  margin: 12px;
+}
+
+.help .surface {
+  padding: 12px;
+  background: white;
+}
+
+.help h2 {
+  margin: 12px 0;
+}
+
+/* .help .gallery{
+  height: 120px;
+} */

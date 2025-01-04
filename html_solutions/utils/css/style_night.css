@@ -1,0 +1,35 @@
+body {
+  --text-color: white;
+  --text-color-2: rgb(214, 214, 214);
+  --tx-clr2: darkgray;
+  --bg-color: black;
+  --surface-color: #353535;
+  --border-col: rgba(255, 255, 255, 0.2);
+
+  --transp-col : rgba(0, 0, 0, 0.2);
+  --inv-trp: rgba(255, 255, 255, 0.2);
+
+
+  --t1: rgb(57, 120, 255);
+  --t11: rgb(198, 217, 255);
+  --t2: rgb(193, 83, 207);
+  --t22: rgb(249, 202, 255);
+
+
+  --faint-shadow: rgba(255, 255, 255, 0.15);
+
+
+  margin: 0;
+  background-color: var(--bg-color);
+}
+thead {
+  /* background-color: rgba(255, 255, 255, 0.15); */
+  /* background-color: aquamarine; */
+}
+
+
+img{
+  /* -webkit-filter: invert(1);
+   filter: invert(1); */
+}
+
