@@ -1,0 +1,499 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+@font-face {
+  font-family: Number;
+  src: url("../fonts/number.ttf");
+}
+
+
+
+Q-1{
+  background-color: rgb(211, 211, 211);
+}
+Q-2{
+  background: rgb(223, 223, 223);
+}
+.a{
+  background: white;
+}
+
+
+
+
+
+
+.accordion {
+  width: 100%;
+  max-width: 680px;
+  margin: 25px auto;
+  background-color: var(--bg-color);
+}
+
+.accordion Q-1, Q-2, Q-3, Q-4 {
+  display: block;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.accordion Q-1 {
+  padding: 15px 10px;
+  margin: 25px 8px 0px 8px;
+  background-color: var(--t1);
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5em;
+  color: var(--text-color);
+}
+
+.accordion Q-1:hover {
+  /* background-color: #6fd8789f; */
+}
+
+.accordion Q-2 {
+  padding: 15px 10px;
+  margin: 2px 8px 0;
+  background-color: var(--t2);
+  font-size: 1em;
+  line-height: 1.5em;
+  color: var(--text-color);
+}
+
+.accordion Q-2:hover {}
+
+.accordion Q-3 {
+  padding: 5px 30px;
+  background-color: #ecd3fd;
+  font-size: 0.9rem;
+  color: #34596f;
+}
+
+.accordion Q-3:hover {
+  background-color: #4af7f7;
+}
+
+.accordion .a {
+  padding: 5px 10px 20px 10px;
+  margin: 0 8px;
+  border-radius: 15px;
+  font-weight: 400;
+  font-size: 0.925em;
+  line-height: 1.4rem;
+  color: var(--text-color);
+  background: var(--surface-color);
+}
+
+.accordion desc {
+  /* font-size: 0.8em; */
+  /* margin: 10px auto; */
+  /* display: block; */
+  /* border-radius: 10px; */
+  /* overflow: hidden; */
+}
+
+.accordion .c, .accordion .a {
+  display: none;
+}
+
+.a p {
+  padding: 0;
+  font-weight: 400;
+  font-size: 1em;
+  font-stretch: extra-condensed;
+  line-height: 1.4rem;
+  margin: 8px 0px;
+}
+
+/* INNER ELEMENTS */
+
+/**CLICK WORKS!!!*/
+
+Q-1 p, Q-1 div, Q-2 p, Q-2 div, Q-1 ul, Q-2 ul {
+  font-size: 0.9em;
+  padding: 5px;
+  border-radius: 8px;
+  margin: 0;
+}
+
+
+Q-1 p, Q-1 desc {
+  margin: auto;
+  /* width: fit-content; */
+  max-width: 95%;
+}
+
+Q-1 div, Q-2 div {
+  margin: auto;
+  width: fit-content;
+  max-width: 95%;
+  border-radius: 10px;
+}
+
+table {
+  background: var(--transp-col);
+}
+
+/**Answer*/
+
+.a::before {
+  content: "Answer :";
+  padding: 8px 0 5px 0;
+  display: block;
+  color: var(--t11);
+}
+
+.a:lang(mr)::before {
+  content: "उत्तर :";
+}
+
+/**Tap for the details*/
+
+Q-1::after, Q-2::after {
+  content: "Tap on the card ▼";
+  display: block;
+  font-stretch: ultra-condensed;
+  font-weight: 400;
+  margin-top: 0.5em;
+  font-size: 0.7em;
+  opacity: 0.7;
+}
+
+Q-1:lang(mr)::after, Q-2:lang(mr)::after {
+  content: "टॅप करा ▼";
+}
+
+Q-1::after {
+  color: var(--t11);
+}
+
+Q-2::after {
+  color: var(--t22);
+}
+
+/*
+ 
+   _   _ _   _ __  __ ____  _____ ____  ___ _   _  ____ 
+  | \ | | | | |  \/  | __ )| ____|  _ \|_ _| \ | |/ ___|
+  |  \| | | | | |\/| |  _ \|  _| | |_) || ||  \| | |  _ 
+  | |\  | |_| | |  | | |_) | |___|  _ < | || |\  | |_| |
+  |_| \_|\___/|_|  |_|____/|_____|_| \_\___|_| \_|\____|
+                                                        
+ 
+*/
+
+.accordion {
+  counter-reset: Q-1 0;
+}
+
+Q-1 {
+  position: relative;
+  counter-increment: Q-1 1;
+}
+
+Q-1::before {
+  position: relative;
+  font-family: Number;
+  content: counter(Q-1, upper-latin)" ";
+  font-size: 1.3em;
+  color: var(--t11);
+}
+
+Q-1:lang(mr)::before {
+  content: counter(Q-1, lower-latin)" ";
+}
+
+.accordion .c {
+  counter-reset: Q-2 0;
+  list-style-position: outside;
+}
+
+Q-2 {
+  position: relative;
+  counter-increment: Q-2 1;
+}
+
+Q-2::before {
+  content: counter(Q-2, lower-latin)") ";
+  margin-right: 0.2em;
+  font-size: 1.2em;
+  font-weight: bolder;
+  color: var(--t22);
+}
+
+Q-2:lang(mr)::before {
+  font-family: Mukta;
+  content: counter(Q-2, devanagari-letters)") ";
+}
+
+.accordion .c .c {
+  counter-reset: Q-3 0;
+  list-style-position: outside;
+}
+
+Q-3 {
+  counter-increment: Q-3 1;
+}
+
+Q-3::before {
+  content: counter(Q-3, lower-roman)". ";
+}
+
+/*
+ 
+                                       
+   _____ _____ _____ _____ _____ _____ 
+  |_____|_____|_____|_____|_____|_____|
+  |_____|_____|_____|_____|_____|_____|
+                                       
+                                       
+ 
+*/
+
+@counter-style circled-alpha {
+  system: fixed;
+  symbols: Ⓐ Ⓑ Ⓒ Ⓓ Ⓔ Ⓕ Ⓖ Ⓗ Ⓘ Ⓙ Ⓚ Ⓛ Ⓜ Ⓝ Ⓞ Ⓟ Ⓠ Ⓡ Ⓢ Ⓣ Ⓤ Ⓥ Ⓦ Ⓧ Ⓨ Ⓩ;
+  suffix: " ";
+}
+
+@counter-style devanagari-letters {
+  system: fixed;
+  symbols: अ आ इ ई उ ऊ ए ऐ ओ औ अं अः क ख ग घ च छ ज झ;
+  suffix: " ";
+}
+
+@counter-style circled-nums {
+  system: fixed;
+  symbols: ❶ ❷ ❸ ❹ ❺ ❻ ❼ ❽ ❾ ❿;
+  suffix: " ";
+}
+
+/* ➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉
+① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨
+⓿ ❶ ❷ ❸ ❹ ❺ ❻ ❼ ❽ ❾ ❿ ⓫ ⓬ ⓭ ⓮ ⓯ ⓰ ⓱ ⓲ ⓳ ⓴
+➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓
+ */
+
+/* arabic-indic
+armenian
+bengali
+cambodian
+circle
+cjk-decimal
+cjk-earthly-branch
+cjk-heavenly-stem
+decimal
+decimal-leading-zero
+devanagari
+disc
+disclosure-closed
+disclosure-open
+ethiopic-numeric
+georgian
+gujarati
+gurmukhi
+hebrew
+hiragana
+hiragana-iroha
+japanese-formal
+japanese-informal
+kannada
+katakana
+katakana-iroha
+khmer
+korean-hangul-formal
+korean-hanja-formal
+korean-hanja-informal
+lao
+lower-alpha
+lower-alpha
+lower-armenian
+lower-greek
+lower-latin
+lower-roman
+malayalam
+mongolian
+myanmar
+oriya
+persian
+simp-chinese-formal
+simp-chinese-informal
+square
+tamil
+telugu
+thai
+tibetan
+trad-chinese-formal
+trad-chinese-informal
+upper-alpha
+upper-armenian
+upper-latin
+upper-roman */
+
+/*
+ 
+    ___  _     ____  
+   / _ \| |   |  _ \ 
+  | | | | |   | | | |
+  | |_| | |___| |_| |
+   \___/|_____|____/ 
+                     
+ 
+*/
+
+/*
+
+
+.accordion Q-1:first-child {
+  border-radius: 10px;
+}
+
+.accordion Q-1:last-of-type {
+  border-radius: 10px;
+}
+
+
+.accordion Q-1:not(:last-of-type) {
+   border-bottom: 1px dotted #797979;
+}
+
+
+
+*/
+
+/* 
+background: linear-gradient(
+  180deg,
+  rgba(255, 255, 255, 0) 0.2rem,
+  #e8ec76ad 0.3rem
+); */
+
+/*background: linear-gradient(0deg, rgba(255,255,255,1) 79%, rgba(253,255,182,1) 100%);*/
+
+/* .accordion Q-2:not(:last-of-type) {
+   border-bottom: 1px dotted #998df8;
+} */
+
+/* Q-1 {
+  position: relative;
+  overflow: hidden;
+  padding: 16px 32px;
+} */
+
+/* Q-1:after {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 120px;
+  height: 120px;
+  margin-left: -60px;
+  margin-top: -60px;
+  background: #3f51b5;
+  border-radius: 100%;
+  opacity: .6;
+
+  transform: scale(0);
+} */
+
+/* @keyframes ripple {
+  0% {
+    transform: scale(0);
+  }
+  20% {
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1);
+  }
+}
+
+Q-1:not(:active):after {
+  animation: ripple 1s ease-out;
+} */
+
+/* fixes initial animation run, without user input, on page load.
+ */
+
+/* Q-1:after {
+  visibility: hidden;
+}
+
+Q-1:focus:after {
+  visibility: visible;
+} */
+
+MAD-RIPPLE EFFECT .ripple {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow: hidden;
+  -webkit-transform: translateZ(0);
+  /* to contain zoomed ripple */
+  transform: translateZ(0);
+  border-radius: inherit;
+  /* inherit from parent (rounded buttons etc) */
+  pointer-events: none;
+  /* allow user interaction */
+  animation: ripple-shadow 0.4s forwards;
+  -webkit-animation: ripple-shadow 0.4s forwards;
+}
+
+.rippleWave {
+  backface-visibility: hidden;
+  position: absolute;
+  border-radius: 50%;
+  transform: scale(0.7);
+  -webkit-transform: scale(0.7);
+  background: rgba(255, 255, 255, 1);
+  opacity: 0.45;
+  animation: ripple 2s forwards;
+  -webkit-animation: ripple 2s forwards;
+}
+
+@keyframes ripple-shadow {
+  0% {
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.0);
+  }
+  20% {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  }
+  100% {
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.0);
+  }
+}
+
+@-webkit-keyframes ripple-shadow {
+  0% {
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.0);
+  }
+  20% {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  }
+  100% {
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.0);
+  }
+}
+
+@keyframes ripple {
+  to {
+    transform: scale(24);
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes ripple {
+  to {
+    -webkit-transform: scale(24);
+    opacity: 0;
+  }
+}
+
+.accordion .open{
+  display: block;
+}
