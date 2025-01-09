@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<root>
-	<class name="Class XII" xmlpath="/flutter/xml_files/REAL/app_config_class12.xml"/>
-	<class name="Class XI" xmlpath="/flutter/xml_files/REAL/app_config_class11.xml"/>
-	<class name="Class XII NCERT" xmlpath="/flutter/xml_files/REAL/app_config_class12ncert.xml"/>
-	<class name="Class XI NCERT" xmlpath="/flutter/xml_files/REAL/app_config_class11ncert.xml"/> 
-</root>
